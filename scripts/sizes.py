@@ -23,7 +23,7 @@ import re
 
 _POW = {"K": 1, "M": 2, "G": 3, "T": 4}
 _NUM = r"(\d{1,4}(?:[.,]\d{1,2})?)"
-.
+
 _SIZE_ANCHORED = re.compile(r"(?i)\bSIZE\s*[:\-–]\s*" + _NUM + r"\s?([KMGT])B\b")
 _SIZE_FREE = re.compile(r"(?i)" + _NUM + r"\s?([KMGT])B\b")
 
