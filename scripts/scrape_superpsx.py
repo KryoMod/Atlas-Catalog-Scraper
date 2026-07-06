@@ -1795,7 +1795,7 @@ Examples:
         "--http-backend", choices=["curl", "flaresolverr"],
         default="curl",
         help="HTTP backend: 'curl' (local, unblocked IP) or 'flaresolverr' "
-             "(Docker proxy, REQUIRED because superpsx.com is behind Cloudflare)".",
+             "(Docker proxy, REQUIRED because superpsx.com is behind Cloudflare)"
     )
     parser.add_argument(
         "--flaresolverr-url", default=None,
