@@ -1,0 +1,38 @@
+name: Daily Automated Scrape
+on:
+  schedule:
+    - cron: '0 4 * * *' # Runs every day at 04:00 UTC
+  workflow_dispatch:    # Allows you to click "Run workflow" in GitHub UI
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    services:
+      flaresolverr:
+        image: ghcr.io/flaresolverr/flaresolverr:latest
+        ports:
+          - 8191:8191
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+      - name: Run Pipeline
+        env:
+          FLARESOLVERR_URLS: http://localhost:8191/v1
+        run: |
+          chmod +x run_scrape.sh
+          ./run_scrape.sh
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add final_catalog.json
+          # Only commit if there are changes
+          if ! git diff --cached --quiet; then
+            git commit -m "chore(auto): daily update final_catalog.json"
+            git push
+          fi
