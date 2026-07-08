@@ -445,7 +445,7 @@ def main() -> int:
     try:
         payload = fetch_json(args.url, timeout=args.timeout, retries=args.retries)
     except Exception as exc:
-        LOG.error("Import exFAT impossible: %s", exc)
+        LOG.error("Unable to import exFAT: %s", exc)
         return 1
 
     records = iter_records(payload)
