@@ -1,6 +1,4 @@
 import json
-
-import json
 import os
 
 def merge_catalogs():
@@ -17,6 +15,7 @@ def merge_catalogs():
         with open(path, 'r', encoding='utf-8') as f:
             data = json.load(f)
             for pkg in data.get("packages", []):
+                print(f"DEBUG: Processing package from {source}: {pkg.get('titleId')}")
                 raw_tid = pkg["titleId"].replace('\u2013', '-').replace('–', '-').split('-')[0].strip()
                 if raw_tid not in catalog:
                     catalog[raw_tid] = {
