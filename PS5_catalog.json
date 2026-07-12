@@ -1261,6 +1261,10 @@
               "url": "https://vikingfile.com/f/a4p54Vk1Ve"
             },
             {
+              "name": "Game - Rootz",
+              "url": "https://www.rootz.so/d/2F6rJI"
+            },
+            {
               "name": "Game - 1File",
               "url": "https://1fichier.com/?3n3r9fiz9et5rc7hs4zq&af=4186346"
             },
@@ -2141,6 +2145,38 @@
       ]
     },
     {
+      "baseTitleId": "PPSA19624",
+      "title": "Bum Simulator",
+      "variations": [
+        {
+          "name": "PPSA19624 – USA (exFAT)",
+          "source": "exFAT",
+          "links": [
+            {
+              "name": "exFAT - akia_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiRmh0N2dUOGcxZUlhWFg3TXNrMDJOeit0R0Y2dFA5OTU5NkNKTEN2VjYySCszMUJDeU9sdC9tS1pkSjBjU1NWT2EvZU9jT1l0Zkh1VUg4UzBCYmRGQ21COGtNSzZDT2JoanJrPSIsImkiOiJTa2xKTDNFcUtrTlBXVmtZIiwibiI6IkFraWEifQ=="
+            },
+            {
+              "name": "exFAT - viki_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoibnJvK1hmZFl1a2VvU0JLcnBTejViRWd6TFEvUG9UeFZVUUdmTkd3aXBURG9XNUd0S094cExrb09PQTNLd1crQ28wQ3FUbVZ0cGhSV0Yzb1dFRzRGanNxSHRNcTZPVkk9IiwiaSI6ImNRbXl0NVFYWldUVmdTM00iLCJuIjoiVmlraSJ9"
+            },
+            {
+              "name": "exFAT - data_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoicURTZHYzcHMvZ0ZHNXpQNmsvZ0FEYitwdUNLZEJzci9KOTA5c3hpVHJqeGdhT2V6RjFKaFBuR1FJODhhUXplSzlwTnMzbk1kamFDSUwrQ0VIQVFxM0thYUdWVzYiLCJpIjoic2Y1UlVOS1JhNy9zSnovSCIsIm4iOiJEYXRhIn0="
+            },
+            {
+              "name": "exFAT - filek_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoic05VQmRrZEJwcjZtMm9keW9Jb0xFV1YzY0hXaXZIc3NTZWZaQXJHR29UT2RFL2lQYUg5WU1LekNiOElNdG1FY2tXenNoOWg2T21IejRlZ2F1eWNXUExDV3dGU0VoakE9IiwiaSI6InoxQmtTdG1PK3FKZ0dVbXMiLCJuIjoiRmlsZUsifQ=="
+            },
+            {
+              "name": "exFAT - vault_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoicllRVndtcG1XaE9QMHdSREVYMEZEcE5XZmtQbWowbzBybkxaN0dGTzZVZ0xGb0xZNnV5Rm9yYS80cUIydHFWSFNtVGVnMnM3R2gxSGF6Tjl4NnhheUN5ZmxrdnVwZz09IiwiaSI6IkUxTEdrRXVWcG0vd3I2TloiLCJuIjoiVmF1bHQifQ=="
+            }
+          ]
+        }
+      ]
+    },
+    {
       "baseTitleId": "PPSA15645",
       "title": "Castlevania Dominus Collection",
       "variations": [
@@ -2553,8 +2589,24 @@
           "source": "exFAT",
           "links": [
             {
-              "name": "exFAT - Akia",
-              "url": "https://akirabox.com/E9Qz90Qx63OL/file"
+              "name": "exFAT - akia_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiRHpiTnlBZnVjVlFnZXEwSUZQc21NWU1YZGIweUxNWUYvclJsRkhFS0R3VGV5am1yR3pBUmtSR2pUblVUdk0rWUF0VU1rejdVdGtnb1o0OUY3MmZUMU92b1JianI1Um13Tnc0PSIsImkiOiJSaisrNXFJcU9HcnFkVEZKIiwibiI6IkFraWEifQ=="
+            },
+            {
+              "name": "exFAT - viki_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiWmM2MFVOYzJEUUhHa3l3TytUQ21rS3crdVFLTFFuOEQ0Ry9FMm85SXpnSWFKaG1DY2RoRGJZMzNtTnlsdjFNb0xNY2I2MHVmYmVCaExvQTlpU0pLQjltUmNEMWlUKzQ9IiwiaSI6IjdCbW9VSnJFSllwQW96czQiLCJuIjoiVmlraSJ9"
+            },
+            {
+              "name": "exFAT - data_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiS0g2aFJrakJjTFVuU1plWmxhb2dwTld6R3NXZnVVNXVVOWJqT2dDZGhSSWdLRFI2NDZFaHZKOTcrL255bzRPNFE0cmdydW5hdU9UOEVOMFo5bVdSTTZHeUlPc1UiLCJpIjoibytVREhJMkxaeW5TLzI3KyIsIm4iOiJEYXRhIn0="
+            },
+            {
+              "name": "exFAT - filek_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoidEpNaTdXamxFbkViWTdYb0tEekEwc2YzRVFBNWk3V1VpNUFpVlZiV25uRlVuNDc5blk2d2I3SGZQZ0RBZlZPTis1YUN5U3hrRkRuVXEwZ2xIbFBiNm1Qbmg4dXZLSjg9IiwiaSI6IjNyWWxkNG1Yci9ueW5tSVMiLCJuIjoiRmlsZUsifQ=="
+            },
+            {
+              "name": "exFAT - vault_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiUktiUVVhSGluZzVRSTVxS2lVR2hiaytnVnFlQ3BCN0RvMUp6S083c2JVNmdNN05ESS9WVE5YMDkyRXo0NnhmZXp0Nno1eC9GSy9pWEkyMjBPZGlPa2V4ek9aRkpyZz09IiwiaSI6IkcvTENCT1UxejlkcW8xaksiLCJuIjoiVmF1bHQifQ=="
             }
           ]
         },
@@ -3517,6 +3569,38 @@
       ]
     },
     {
+      "baseTitleId": "PPSA17219",
+      "title": "Disney Illusion Island Starring Mickey and Friends",
+      "variations": [
+        {
+          "name": "PPSA17219 – USA (exFAT)",
+          "source": "exFAT",
+          "links": [
+            {
+              "name": "exFAT - akia_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiczVIeVc3SVA5dE1lSzZ2cnJtRTllNFhMemEyd0hUWmltUWVwc2lLcVN3TEpJa0FxK1JwMHo3ZjVKUmVWbVVQYzZPTnVQMGxrODVLeTY2bVJJMmZodFVlNVFQOEZBK2xvdjBjPSIsImkiOiJoRElPWDAwS0lVOWIrV01kIiwibiI6IkFraWEifQ=="
+            },
+            {
+              "name": "exFAT - viki_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoicFhteTJXbWgrVDluQlBWdlh3VkNyUVhrZ1VUejVZaEJKdFdDcnBGNnFhWTY1VjZPRmE0SGpUbC9sTTNNa29LRXpWSkdZTEptRUhtNXBRYnJFdXM0QXl6YmF4cU91bEE9IiwiaSI6ImVFQlZCOUpqUmdrRVorWnciLCJuIjoiVmlraSJ9"
+            },
+            {
+              "name": "exFAT - data_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiakcrUzNUYXhUeHhBMUk2cGdtVVJVMXFTREJyTFd4a3RaVEVydG1sVXRHZ1VmVm1lV1VYNEJDSC9YeU0vRnhIQWlwRFFUb1JiUXhlWCtpcGN3dmh3b1M2bStUVGQiLCJpIjoiSXk2cFg5bkg5SExsbU5WOCIsIm4iOiJEYXRhIn0="
+            },
+            {
+              "name": "exFAT - filek_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiS2hDSk43TU9GNW01cFlxU1lIOGVtVnhXeGRNL1ZQNmloNUZJZmR1Vlp3NXVBRlJFUDZ3N0hRZjFzZ0FFc2pCVDBRdlJaVDBvWkphZUNRTEUyNHpUMGNadWw4MmRrK009IiwiaSI6Im1sK3QzYVEvMWYzU1J2S3giLCJuIjoiRmlsZUsifQ=="
+            },
+            {
+              "name": "exFAT - vault_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoia1JESGpqcmNHSXQ2dHZVWDRsVCtESytyOS8ydEQrQkk2OE5zQStwRFhDK1UrTGhzNHZzQWVzZzc2MDJpUWNQeUEwbGpyaGREUjM0S2lycDdLYmR1SEp6clRweWRUdz09IiwiaSI6InFBR0NpbFhyMlJ4WHdrbkIiLCJuIjoiVmF1bHQifQ=="
+            }
+          ]
+        }
+      ]
+    },
+    {
       "baseTitleId": "PPSA06164",
       "title": "DNF Duel",
       "variations": [
@@ -4375,12 +4459,12 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Akia",
-              "url": "https://akirabox.com/RMKGJwkDWm1o/file"
+              "name": "Game - Viki",
+              "url": "https://vikingfile.com/f/NGnxI0WPIC"
             },
             {
               "name": "Game - Rootz",
-              "url": "https://rootz.so/d/1vr196"
+              "url": "https://www.rootz.so/d/TmyW0"
             },
             {
               "name": "Game - 1File",
@@ -4909,12 +4993,12 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Akia",
-              "url": "https://akirabox.com/7d5GLgWPqzxR/file"
+              "name": "Game - Viki",
+              "url": "https://vikingfile.com/f/PDQwaKmh81"
             },
             {
               "name": "Game - Rootz",
-              "url": "https://www.rootz.so/d/1UAKDQ"
+              "url": "https://www.rootz.so/d/2BKwHg"
             },
             {
               "name": "Game - 1File",
@@ -9717,6 +9801,26 @@
             {
               "name": "exFAT - Vault",
               "url": "https://datavaults.co/le7gsgzr1jrk"
+            },
+            {
+              "name": "Backport - backport_akia",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoicEp3SURBcEgxd2E1aVlzL2RwakwvMno5TVovZWRPSmlOYzFZU3ZTc3RBL2IvL2tkc2YxVkRacUpZNXNxYnF5SCt4UGExakhFWi9hU3NvWkZ2QnFsQjJDZnNTS3EzWU85SFhZPSIsImkiOiJpM2wwVk9YZWwwWWhSanJNIiwibiI6IkFraWEifQ=="
+            },
+            {
+              "name": "Backport - backport_viki",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiWVdvQzUvUzh0TnlSRDZ6c2tYaEMyQUNseWI5R1FSMnFhSktDZFBuVlQxL21wMzF5R3FOUFlUWXRoOVVlbUVybXB5bjJMc1hyenBTVU9KVEtuWTNubXJjeGM2VEIxOWM9IiwiaSI6ImN5NllWTVd5NlhBNlBaYlgiLCJuIjoiVmlraSJ9"
+            },
+            {
+              "name": "Backport - backport_data",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiQW4vdHBoK2VmSmk1TUpxUWZQKzZaUGxRd1BvWVdkL0h1OS9iK1lvNTdFaHRIUUNOaDJtalFVQlc1YTEwdEpTRTVxYmxuY0w4a2htcG8vTDgzS1J0L2RYQU1JVWQiLCJpIjoiRlNsdUp1NE8wNUlVMDRYWCIsIm4iOiJEYXRhIn0="
+            },
+            {
+              "name": "Backport - backport_filek",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiQjYwQ3MrU0hBOUszbnlqUTQxa1VwbzF3LzNuVXlYYlB0cmFORkVCVmM0Rm5PVzc0RktlUmd2VGpMQi90OG91RFNzTzRLd3dIYTkwMjdiTkhCME5qWENWSHJTdGVkRFE9IiwiaSI6ImpKeE1CaVZJUkNYVGkyTmMiLCJuIjoiRmlsZUsifQ=="
+            },
+            {
+              "name": "Backport - backport_vault",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiZURMV0k4WGRLd2xRTnlra2Vid3BreWlOSFkwemhZUGJFRCtNSnlySld2cXFxbXhoYkdEYmh6dGpQS2dKQjFzcFRBTlB3bWVwUGxSQ2Vuekp1WGUzOGFTZ3FyTWkvZz09IiwiaSI6IkJNbG55RXFDdmtoOHA4ZDciLCJuIjoiVmF1bHQifQ=="
             }
           ]
         }
@@ -10285,12 +10389,12 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Akia",
-              "url": "https://akirabox.com/wgWGq5nBPG4o/file"
+              "name": "Game - Viki",
+              "url": "https://vikingfile.com/f/ix0TLWU9Bu"
             },
             {
               "name": "Game - Rootz",
-              "url": "https://www.rootz.so/d/1esRSS"
+              "url": "https://www.rootz.so/d/yehaS"
             },
             {
               "name": "Game - 1File",
@@ -10685,28 +10789,40 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Akia",
-              "url": "https://akirabox.com/APVmaBlNq3Xo/file"
+              "name": "Game - Viki",
+              "url": "https://vikingfile.com/f/XWUviBMfnH"
             },
             {
               "name": "Game - Rootz",
-              "url": "https://rootz.so/d/23b2Tg"
+              "url": "https://www.rootz.so/d/1cRMPo"
             },
             {
-              "name": "Backport - Akia",
-              "url": "https://akirabox.com/Xkrzo7Y4kzBO/file"
+              "name": "Game - 1File",
+              "url": "https://1fichier.com/?zt71nidrmnw80528x0r9&af=4186346"
             },
             {
-              "name": "Backport - Rootz",
-              "url": "https://rootz.so/d/1B4424"
-            },
-            {
-              "name": "Backport - Akia",
-              "url": "https://akirabox.com/qPez4WdZa3OY/file"
+              "name": "Backport - Viki",
+              "url": "https://vikingfile.com/f/eBE9hIexKr"
             },
             {
               "name": "Backport - Rootz",
-              "url": "https://rootz.so/d/2PgCO"
+              "url": "https://www.rootz.so/d/16STPU"
+            },
+            {
+              "name": "Backport - 1File",
+              "url": "https://1fichier.com/?u9488df78b72ug5og5nx"
+            },
+            {
+              "name": "Backport - Viki",
+              "url": "https://vikingfile.com/f/bvbEHDMGux"
+            },
+            {
+              "name": "Backport - Rootz",
+              "url": "https://www.rootz.so/d/2J8iAq"
+            },
+            {
+              "name": "Backport - 1File",
+              "url": "https://1fichier.com/?g0xg0g0vonmpjr0i1ut9"
             }
           ]
         }
@@ -10731,6 +10847,38 @@
             {
               "name": "exFAT - Data",
               "url": "https://datanodes.to/4za69xlhbinx"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "baseTitleId": "PPSA23760",
+      "title": "Nikoderiko The Magical World Directors Cut",
+      "variations": [
+        {
+          "name": "PPSA23760 – EUR (exFAT)",
+          "source": "exFAT",
+          "links": [
+            {
+              "name": "exFAT - akia_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiSkdOaEdNL3NrejM0Zlp2Y09yS0Z6eUZsbVp6cHZEK3NYNkpJYWNvVWlNaWNpd2lYZytVcFFZWFlYNHNtZU5IYzJoNWIrTWJLVW9ySDhYWXdIbmZkVG5wSnVOTVpEMlYxMGN3PSIsImkiOiJZN0VjZkZubkpWemZZSWtsIiwibiI6IkFraWEifQ=="
+            },
+            {
+              "name": "exFAT - viki_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoicWpYemNXd3lKdXJNTGszeFlJaE0wQ0twYThlS09iUmdwTGlUZG1ydUZWSkNPQlRPVDhKNkZvSDFSekQ0L0FvNEFyd0M1cHlrUnl2VWd0V0gzR3pqWHYxWU9UV2krTVU9IiwiaSI6IjV5SmZqZlYreXdSdUVJWi8iLCJuIjoiVmlraSJ9"
+            },
+            {
+              "name": "exFAT - data_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoidVN2QkZGYkdPdk4rMk14TXJDTDFQb2tHekJzbGszZG5nS2MrWklWcW9Gc0tEN0hKWU9kanJPUzVRM0U4ZmFtZVEzRUtzRzkrMk5yeUI2NGYwUnhRUkEyMGo5S3UiLCJpIjoiSzlPWVpsL0FLVGFtUUpmayIsIm4iOiJEYXRhIn0="
+            },
+            {
+              "name": "exFAT - filek_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiZlVFMHpzL1VEVGFNRDBmRnk2NFloTDV0NFhScnFBenpMVUwrRCtkR1ZHaXhjbzQxY1VjY213dWhNd29PYUg4RmxaeE54RXJIYlBUTmpRcjdvVG15c1BXWWRkcGRqek09IiwiaSI6InNqT0s5NVgyNjhXWE8wMjUiLCJuIjoiRmlsZUsifQ=="
+            },
+            {
+              "name": "exFAT - vault_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiTVoyam5GaWFEZWZMNE5BaU40dlhuZzhBUWZpOTZaM1BmK05vYmE4YzNZd1NLNHNOblNNQWw5U3FCYzdSbjhZWUFQSy9ESm54WXJzSFJTakNlRlpFaWNJemMzY3hidz09IiwiaSI6IkhKTm0wNm9ST2UvUjllSEkiLCJuIjoiVmF1bHQifQ=="
             }
           ]
         }
@@ -11187,12 +11335,16 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Akia",
-              "url": "https://akirabox.com/qPez4Wdlx3OY/file"
+              "name": "Game - Viki",
+              "url": "https://vikingfile.com/f/0LtXIBSEi1"
             },
             {
               "name": "Game - Rootz",
               "url": "https://rootz.so/d/nJO8u"
+            },
+            {
+              "name": "Game - 1File",
+              "url": "https://1fichier.com/?zpa6kd10hi93gi2t0lsv&af=4186346"
             }
           ]
         }
@@ -11587,12 +11739,36 @@
               "url": "https://datanodes.to/zjtm6430pbml"
             },
             {
+              "name": "Backport - backport_akia",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoicmNIM2JTTGdrRm9YUGsya3BuM3l0cnRKT1BpSjM2RU9lWUYvOGdVQWI1bVFpSHhNZzI0djFkZjdjR0N3ZXRGdEdaN2hSenJOajhpTit0TzZyZy9tMUpwMWpMZzJWNytvK3NBPSIsImkiOiJhRjhTRTA2SzJaVHBTaFpvIiwibiI6IkFraWEifQ=="
+            },
+            {
+              "name": "Backport - backport_viki",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiN3ByK3RaY2wySFNCMnZqNjQvZ2NhMlFXNERKSjZldkozZG1BVHM4eDZXc0RVK2N1RlhiZURGRnl2NFBHVWJVeDVvWmJ0dTZlN0lQNnEzOE1pM3lVQ29wVFZOcHFMdnM9IiwiaSI6IkVrWGxUeDFSOUt4dlMrK2oiLCJuIjoiVmlraSJ9"
+            },
+            {
+              "name": "Backport - backport_data",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiT2ViMndReEFIb0VwVFI1MGpydTNvK2xPdlI3WXhVVlJ6MTVZT3N2YVR4OTZBYzlZM09JSjhldlBnd3VQZEJuZHBSV0RzdjJzTjJJMzQzT1loQkdIUWY5R0NYMlEiLCJpIjoiZWEwQU9JSmtQMG1CeFJDdiIsIm4iOiJEYXRhIn0="
+            },
+            {
+              "name": "Backport - backport_filek",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiVTU1c1ZNMXZEV05PRnFwMmtVRHVQTEVsbDVNRnBWODJBRGxOdVFSc0NVQjI4Qjk5WXlQTFNzMFI4Vk1ETS9JUllsd0pPZjRlVHcvRlNHYnRub09UQ2NSK1lOLzdrNEk9IiwiaSI6IjZDNDZRLy85M2cyOFBoTnIiLCJuIjoiRmlsZUsifQ=="
+            },
+            {
+              "name": "Backport - backport_vault",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoib3hPTXN3K3Rqd1VwUzRLU1o3S3hka3pjamFQd3JJaGIrMW9Vb0JKZk1tRC9JNWdQd3pKS2lsOTFaMDlyVFdCWmZwaG8yK3lJVlRVbnhKUHJIaDRvcjNaMEhxVTZzUT09IiwiaSI6Im9DVWZORW9VQ3Q0WU9CRWQiLCJuIjoiVmF1bHQifQ=="
+            },
+            {
               "name": "DLC - Akia",
               "url": "https://akirabox.com/2WVGrVEEAGkx/file"
             },
             {
               "name": "DLC - Data",
               "url": "https://datanodes.to/dwqkxuo8n3bf"
+            },
+            {
+              "name": "DLC - dlc_filek",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiWFFIV2pOVk92eU1rZVZnMGtkald6NkF6OEh1REZSSHdtak42OUpPbG5uMnZMSmttVm0valBwMlNuUWJrQlBrbXE3OHQ2TWhhRm9NWVh3UUJTVzFHTER3MFlHUnJDeUk9IiwiaSI6Ikl4VDZJOEhrZ1ExTDlSa3giLCJuIjoiRmlsZUsifQ=="
             }
           ]
         },
@@ -12017,24 +12193,36 @@
           "source": "superPSX",
           "links": [
             {
+              "name": "Game - Viki",
+              "url": "https://vikingfile.com/f/aOMphGVwcd"
+            },
+            {
               "name": "Game - Rootz",
-              "url": "https://rootz.so/d/T3Mzg"
+              "url": "https://www.rootz.so/d/1QLnpA"
             },
             {
               "name": "Game - 1File",
               "url": "https://1fichier.com/?mxmzu1kikpw2uzoiux0k&af=4186346"
             },
             {
+              "name": "Backport - Viki",
+              "url": "https://vikingfile.com/f/EzWpcqs8m7"
+            },
+            {
               "name": "Backport - Rootz",
-              "url": "https://rootz.so/d/KzfGa"
+              "url": "https://www.rootz.so/d/aDeZE"
             },
             {
               "name": "Backport - 1File",
               "url": "https://1fichier.com/?7gz2vfi2y15aph6dec2z&af=4186346"
             },
             {
+              "name": "Backport - Viki",
+              "url": "https://vikingfile.com/f/UIWmxJbKjd"
+            },
+            {
               "name": "Backport - Rootz",
-              "url": "https://rootz.so/d/1Xftxo"
+              "url": "https://www.rootz.so/d/HhPzU"
             },
             {
               "name": "Backport - 1File",
@@ -14323,6 +14511,84 @@
       ]
     },
     {
+      "baseTitleId": "PPSA15209",
+      "title": "SPY X ANYA Operation Memories Deluxe Edition",
+      "variations": [
+        {
+          "name": "PPSA15209 – JPN (exFAT)",
+          "source": "exFAT",
+          "links": [
+            {
+              "name": "exFAT - akia_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoibXlxbnFQN3ZQSlFBMUlieGRzcG96OTJFZjVYenBOVklaWmdEd2RPbjcvWmZlQW9KWERyUnNVcXJKTW1Qa1hpZDJrQ3oxMVFCYk5GZGpDN1dsaGhUUllIVVRWUmxPU01yd0ZBPSIsImkiOiIxOGhXaC9LemJjTk1XRm5VIiwibiI6IkFraWEifQ=="
+            },
+            {
+              "name": "exFAT - viki_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoicFMxc1g1dUdEN2tmRkp1ZWQxZ1hkRGVxb3hPL2tXZHlyVjJXNjNndXdobnp5NDBpYS92RStWVVUrT2ZjamlyVUt3cjBYaU8zRWFEalIyMk1FNmV1NTdUUXpxNE9OMVE9IiwiaSI6InFudXNWTHJaclRyUjhVd1EiLCJuIjoiVmlraSJ9"
+            },
+            {
+              "name": "exFAT - data_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiWFdiWTZxWnBOWE1wWFFDZUkxUkxRbmMxUXVvS3VpR2hoeTk4Vi93eEFkY0tWRjVtWDd5ZEFYQmh2WHhDUTVJbm1rVWN4clpCRlVoVW13SnRyU1J6Mzhycncwc1AiLCJpIjoiK1lkL2dBMU9Zd2FRU3IxeiIsIm4iOiJEYXRhIn0="
+            },
+            {
+              "name": "exFAT - filek_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiNVozWHFYTVp0Mzg3Zm03bmV1TWp5MUxrM2FOKzFaQkVON0I1UEs5VlFxaHVBMVFwYnUvSFY5bXRnaC9EZ1BxcmsvR2hMc29UejZPYVhHcFMwSDg2YnJheE9rOWNEOTg9IiwiaSI6InJtQWx0OFRha0Q0dThiVFEiLCJuIjoiRmlsZUsifQ=="
+            },
+            {
+              "name": "exFAT - vault_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiOU5CVy9UKzgzb0RSbEtqSFpQTkhoSks1eFd4c2k0R0w3dzVGZEwwYkR1dWpjL1d3VG1tdnMyczAyN2dIMDV1d2FPaEVZaGdlNk8wRUZyOWdIR0ZGR0V6UW5LbHFIZz09IiwiaSI6ImMxL3p0aUVDNFJxM2NPcCsiLCJuIjoiVmF1bHQifQ=="
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "baseTitleId": "PPSA22102",
+      "title": "Squirrel With A Gun",
+      "variations": [
+        {
+          "name": "PPSA22102 – EUR (exFAT)",
+          "source": "exFAT",
+          "links": [
+            {
+              "name": "exFAT - akia_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiUkF4ZEsxNG90b2YrZEc3OGxQaXArM1NXcjk4ckw2UzJmS1pjOGhlcWFiSTdZdEtMYWZpd0hHQWZWblFiV2dJSFJtOUtBNjFMT2lPcFA3SU5xUVFRY2RZWW1POVVTVG5ZVmNNPSIsImkiOiIvOFpMM0tvNHdxcTU3SUR6IiwibiI6IkFraWEifQ=="
+            },
+            {
+              "name": "exFAT - viki_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiNlFXU2RxWEtQQmQrYWUxQ2Z4Z1FHZFQ5N3hRS01VbXZxVFhESEZNRkJQYk9SdFNyU2taYlFFSTZ3cjBXL0JzTmdhU1ZGRjZxUENUUW8xREFYblZxK1EzZFBtdFVPWk09IiwiaSI6IjBBSnIrYmZ6a09rTXBsaVUiLCJuIjoiVmlraSJ9"
+            },
+            {
+              "name": "exFAT - data_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiWHNRbysvRU5seWkyZEJSVHcxc3NMUitRZTRtbUpOUXlJelZhQTJYcGVMRnZtRUphY21scU4vdmVjMitSeTNpUkxucGd5Sk8ySmZiRVBLdDN5alJrYlNsZnd2NU8iLCJpIjoicnc2Mm1kNlB1OWE1V3p2MiIsIm4iOiJEYXRhIn0="
+            },
+            {
+              "name": "exFAT - filek_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiMm55dmlVVGN1MjIvSDBvWUlRRk5EOGdtNHY3YU9kRkdTK25zbDc1SUdBbS95c0l1TlJ1YXlnYkZhQ3RBWkVZTmI2R0xab2txQU5HeE1ya2VUR08zU3dZSStzVUdYWnc9IiwiaSI6Ii9ML2ZYVHU5bkR3aHNDemgiLCJuIjoiRmlsZUsifQ=="
+            },
+            {
+              "name": "exFAT - vault_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiVlZnZ2FKb3hOcDN5MkpuMEdsMjhiVUFUR2JWWjJzZHhuNkVwT1NUemZ2MkZwVEp1a3N4RXlLVDAyQjYxNVJqd2xWenE2WFJ1bTAwODdmcUlwVGpmYkVETElDcEgwQT09IiwiaSI6IlhiQ0R1T0UyQmg2cnhhK3AiLCJuIjoiVmF1bHQifQ=="
+            }
+          ]
+        },
+        {
+          "name": "PPSA22102 – USA",
+          "source": "superPSX",
+          "links": [
+            {
+              "name": "Game - Akia",
+              "url": "https://akirabox.com/gXeGO19rA3Aa/file"
+            },
+            {
+              "name": "Game - Viki",
+              "url": "https://vikingfile.com/f/Abqgw3VYIw"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "baseTitleId": "PPSA28336",
       "title": "STALKER 2: Heart of Chornobyl",
       "variations": [
@@ -15437,24 +15703,24 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Akia",
-              "url": "https://akirabox.com/jar3XZwMYG2d/file"
+              "name": "Game - Viki",
+              "url": "https://vikingfile.com/f/6Pgcts5fEw"
             },
             {
               "name": "Game - Rootz",
-              "url": "https://rootz.so/d/Atp9U"
+              "url": "https://www.rootz.so/d/Pl7eS"
             },
             {
               "name": "Game - 1File",
               "url": "https://1fichier.com/?1jhbh054jeg8i26sed4x&af=4186346"
             },
             {
-              "name": "DLC - Akia",
-              "url": "https://akirabox.com/1RgzRpBM9mbp/file"
+              "name": "DLC - Viki",
+              "url": "https://vikingfile.com/f/Nd8lZ9H7Ak"
             },
             {
               "name": "DLC - Rootz",
-              "url": "https://rootz.so/d/1HvBNQ"
+              "url": "https://www.rootz.so/d/1mttKa"
             },
             {
               "name": "DLC - 1File",
@@ -15587,6 +15853,38 @@
       ]
     },
     {
+      "baseTitleId": "PPSA09509",
+      "title": "System of Souls",
+      "variations": [
+        {
+          "name": "PPSA09509 – USA (exFAT)",
+          "source": "exFAT",
+          "links": [
+            {
+              "name": "exFAT - akia_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiK2JpR2I3WlEyWmNXMDBlTFBzdC93aG5ybEk0QzRUY2VrNUNDUm94clZHVlBzYmZTYkZ5YmhKNGZyeGlIUVU3Y0hBM0xWSmZzWHgyemlkOGk0SS81U3FQUStGbDNjUHlqa293PSIsImkiOiJIdEl4SVc0eGd5Tk5tRnQ4IiwibiI6IkFraWEifQ=="
+            },
+            {
+              "name": "exFAT - viki_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoieU1ZWVFGaGcxeURnd3lxbFRFSWtOMGMyZDNzT2dwbGIvZ2tZa2dsVEVLMTQrTnZFclExdVUxT3FXbkVxSklEdUozaFRIUUowblZ5TlhsSmJoR0FEN2pCNHZpTVJHN3c9IiwiaSI6IkJVbVoyTUNISEZveHYyeisiLCJuIjoiVmlraSJ9"
+            },
+            {
+              "name": "exFAT - data_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoibXl6T0hVQXJZVXU5a2kyRFZKV3RmR3JCOGs0YW5WcXlnUmhOejJ5N1R1VmJmSTJwLy8xdEtlV1JCZ0p5NkdkTjhNUUt3UnlMY3VtQjhPcDFGNENERWRlZEgyZHkiLCJpIjoiVnRZUTMyWHJ2YjVqWXJraCIsIm4iOiJEYXRhIn0="
+            },
+            {
+              "name": "exFAT - filek_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiejZsVllBU1RlMngvL3VzbnhmTEhtR0VUYVEzRDZyaGlWdDhPMm13cE10VjgzZlh0WXlRaTE2RDdsUi8wa3Y2Sjlrd3hLdGQ0dFFlMTlLM05TV3plZlVlTkhtd1dYR3c9IiwiaSI6IkJhMnAxdEJkZk5ra3ppV1QiLCJuIjoiRmlsZUsifQ=="
+            },
+            {
+              "name": "exFAT - vault_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiV1QzTCt5QjBKMWlQU2FKSlpWYUE2ckRCaUJ4T05Nb3IrRVlQSmZnWnNJek95bHJEaEl1UmpLRmpNWXF1Z09PaU5QYktkTkpMaXhMODB0THNBT28zUUd2M1pOano1dz09IiwiaSI6InZyUzVFYU14VWtxdXVaQXQiLCJuIjoiVmF1bHQifQ=="
+            }
+          ]
+        }
+      ]
+    },
+    {
       "baseTitleId": "PPSA03839",
       "title": "Tactics Ogre: Reborn",
       "variations": [
@@ -15655,6 +15953,38 @@
             {
               "name": "Game - 1File",
               "url": "https://1fichier.com/?u01zcvmh1nhrbgchrxxw&af=4186346"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "baseTitleId": "PPSA19990",
+      "title": "Tales of Graces F Remastered",
+      "variations": [
+        {
+          "name": "PPSA19990 – EUR (exFAT)",
+          "source": "exFAT",
+          "links": [
+            {
+              "name": "exFAT - akia_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiZW1rZ0syZ3VEN0U0U3ZFbG5MelVQMW84WEUwTW9XaGhscjl0SjJWd1JraS9sMUxjK2I0c09ObHV2NCtnajF4NDVSbmxYZHhrckt5aTFQNzFwSm1rK3d0dnN5SWt2a2EvblFrPSIsImkiOiJka0ZkM3Q5Mm5wbE5NbzJPIiwibiI6IkFraWEifQ=="
+            },
+            {
+              "name": "exFAT - viki_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiYXMxZ2lKcE9QcmlpOHN5b1A1OU1RdlM1VUdoK2RlcDRSNlo4WS9MVnhWMm9kM1M0dTdLNW41QllmVzM3NVhVWUdEWTFxamI3eTZrYTZBOEtrMkVDZFhNMFBUak5BZ2M9IiwiaSI6IkJhbFpyUG9nYnZRcnRYMWciLCJuIjoiVmlraSJ9"
+            },
+            {
+              "name": "exFAT - data_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiRnRjanJQM3BnUzdiNWE3cy9rZ0FvU05TZW5mSDVVbWZXMXoyUlREVzJocEtrZzdnWFRlbU15VEs2R3ovQ2UyajJyd0hGMkZNVHpRSEhwYTVuQTVyR1JpekpDWjkiLCJpIjoieEVIVUlyMzkvTXJ0ZVEvUSIsIm4iOiJEYXRhIn0="
+            },
+            {
+              "name": "exFAT - filek_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiK2c1eVN3aXd4eXBTbk5sMmRXMUp5YmY0UGdRUjkvYU1ZK0V1R0xNMCtzdEQxcFQ5NjlLMnVsODBNSzZMNnpDZGo1MDVEUWFKaXpsU29XOStOTXMzelJTcjhuSkY5Rms9IiwiaSI6InB2Y01XalFtZjZxSTRvQjgiLCJuIjoiRmlsZUsifQ=="
+            },
+            {
+              "name": "exFAT - vault_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiT3p4YnJodEV3RnNxNnZoWS9SS3hiYTZDZmJITVFieDJOVlRhZ2JtNlNGRGwyL3JGeEFiTkxaaE9rTmE4V3daT0xnQUsxK1FXY3F0ZWtwVUZjNlRmYTY0V1p3d3VkZz09IiwiaSI6Ik11WmI3MExicXhacjNJOXEiLCJuIjoiVmF1bHQifQ=="
             }
           ]
         }
@@ -17049,6 +17379,56 @@
       ]
     },
     {
+      "baseTitleId": "PPSA03977",
+      "title": "The Witcher 3 Wild Hunt Complete Edition",
+      "variations": [
+        {
+          "name": "PPSA03977 – EUR (exFAT)",
+          "source": "exFAT",
+          "links": [
+            {
+              "name": "exFAT - akia_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoieFpQaDFoeUJHaHQ1SFh5QmZENTFXdUZKanppY2Vnc0xNTmtSSVpBSGNMWU16U2lBaWNhRS9YSkRkYUFwTm5YR255N042TXVyaTRMWm1ZRnNvUlZNWDlNamhRbmprUkM0bG8wPSIsImkiOiJjUjlPQ0hPTGQ1VG1iajdjIiwibiI6IkFraWEifQ=="
+            },
+            {
+              "name": "exFAT - viki_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiWStqY0R4L24vV3MwTnFiSWxuRmF3MlZMQnBKbG9sTnpncHh0TGNWdkpCVlVzYTdvbm1hbmRoOU1LQnB5QkYraDdaUU9LTFA1aXhTdmJxeU9RM0RsNVRyeHJXajBROHM9IiwiaSI6InkvMzNIcjFoTTdyN0JYNTIiLCJuIjoiVmlraSJ9"
+            },
+            {
+              "name": "exFAT - data_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiZFA4bzBldndxWnpmc2dEdDFCYWZrazVNNG5xWWI4ZjdPZ3pGY284M3Z3OFliTmxQOHh6c3JBNk5BT2FFN3F0NTJsSk45RUk2c0E4Q0YxSlRUcGdvQlg3Wm5LUm8iLCJpIjoiamNHd3hWNWZORDFWYy9BTyIsIm4iOiJEYXRhIn0="
+            },
+            {
+              "name": "exFAT - filek_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiRVFvVUFwTDI4Sy9FRmphQ25ubE52S2hRMkx4bXlSYzVPWnV5VWNsQm9mU0YzK0M1aVBoQ3BEMytJZWg4dC94L290WkMxSXNuRW5aRTBzcUJmbUZ2ZnlxV3FCaEQxSzg9IiwiaSI6ImgydHVSemJUazFEQlcwbUgiLCJuIjoiRmlsZUsifQ=="
+            },
+            {
+              "name": "exFAT - vault_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiQVVQdWhpYzRSeWdPTTU5b0krNlQ3N1Z3eTk5WnkveGp1ekdvNjN3QUY0d0FSSmtCSHFUTVpaR2VmYXI2WXg4WXBQaEFtRlppaHpaajY0TVdlRFUzVGZuRzVUZEtQQT09IiwiaSI6ImIwYlp6VDAzdDBzRGtRZVYiLCJuIjoiVmF1bHQifQ=="
+            }
+          ]
+        },
+        {
+          "name": "PPSA03977 – USA",
+          "source": "superPSX",
+          "links": [
+            {
+              "name": "Fix - Akia",
+              "url": "https://akirabox.com/0PdzyqE4qzeA/file"
+            },
+            {
+              "name": "Fix - Rootz",
+              "url": "https://rootz.so/d/1HsBlo"
+            },
+            {
+              "name": "Fix - 1File",
+              "url": "https://1fichier.com/?hotp2yjqjk0pac5xe1wk&af=4186346"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "baseTitleId": "PPSA05213",
       "title": "Thymesia",
       "variations": [
@@ -17347,8 +17727,8 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Akia",
-              "url": "https://akirabox.com/LJlGngKeAm15/file"
+              "name": "Game - Viki",
+              "url": "https://vikingfile.com/f/TEILImZjjG"
             },
             {
               "name": "Game - Rootz",
@@ -17359,12 +17739,12 @@
               "url": "https://1fichier.com/?417udqx64i91tycu88wl&af=4186346"
             },
             {
-              "name": "DLC - Akia",
-              "url": "https://akirabox.com/9AqGQd75rzMn/file"
+              "name": "DLC - Viki",
+              "url": "https://vikingfile.com/f/0kQ8Ux6rX8"
             },
             {
               "name": "DLC - Rootz",
-              "url": "https://www.rootz.so/d/yFp3o"
+              "url": "https://www.rootz.so/d/27J5Q8"
             },
             {
               "name": "DLC - 1File",
@@ -18735,48 +19115,6 @@
       ]
     },
     {
-      "baseTitleId": "PPSA31327",
-      "title": "Yakuza 0 Directors Cut",
-      "variations": [
-        {
-          "name": "PPSA31327 – JPN (exFAT)",
-          "source": "exFAT",
-          "links": [
-            {
-              "name": "exFAT - akia_url",
-              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiZHMzZlhveVBJM1RjNmY5dGdwdU0zWnZPcUxnZTd5cTZPRWppZ0VjK1JMYTFCOFJTMzloTUxXZFpMRmFiV1JqOFhNdVpLdkRrcXdVSDlCSGQ0aGxmVVN5OHp0bGNqb2I0ZDhBPSIsImkiOiJ0QStMc2ZnbENZU0VzZENGIiwibiI6IkFraWEifQ=="
-            },
-            {
-              "name": "exFAT - viki_url",
-              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiNjNDaG1Gb0p0NGI3OTUxZnVPcDZZcTNzV2xQaWdpUWE1by9iTTZiditiekZnV0tPWTVQVFp3VUl0NjhGOWZHRWdQMHQzblpsOW0vWm8zd3BEUVRkUytOZ3plTVNtTE09IiwiaSI6IkExRmVPcFhaUlA1bENOLzYiLCJuIjoiVmlraSJ9"
-            },
-            {
-              "name": "exFAT - data_url",
-              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiRUIzODIydTlaanZCanRhekt0YkZTdVZwbFhlWWxZdys2ZjRyKytxelg2SmRuR003cS9nbjF1elN1eForOXk4TklCQWJpWjF1R0FMeHdkK21NanJLZVdaQ3pkWXkiLCJpIjoiT3AwRFNleGtaclN5eUp1QSIsIm4iOiJEYXRhIn0="
-            },
-            {
-              "name": "exFAT - filek_url",
-              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoicTFvS05kRHBaM1BkRG1ZRmdkSTRlbW0wOStmN0NlWW5SbjRaNkNKcEU5QS9CSndoVjVLdWk2L28rWitGbWJ6ZWd0WFVSbVMwejVsKytmZUVLSm1yYmF6R1lqakNkbVU9IiwiaSI6ImI2ekVsS1J5Q0ZRc01wWVMiLCJuIjoiRmlsZUsifQ=="
-            },
-            {
-              "name": "exFAT - vault_url",
-              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoicElveDlLOEZUQWZKWVVwMGhIYmpIYlVFZDBjV21ucWZ1K3RJQThueHpSV21NczF5djlDZ0Z3Nmkzc1NYZnp5aGlBRlFRVlNHOXYreEZCb2FiQThVN2s3eXpEeE52Zz09IiwiaSI6ImhyTDI4NVYvcHk4QmlqMWYiLCJuIjoiVmF1bHQifQ=="
-            }
-          ]
-        },
-        {
-          "name": "PPSA31327 – USA",
-          "source": "superPSX",
-          "links": [
-            {
-              "name": "Game - Gofile",
-              "url": "https://gofile.io/d/PO3nnV"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "baseTitleId": "PPSA02384",
       "title": "Yakuza Like A Dragon",
       "variations": [
@@ -19629,12 +19967,12 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Akia",
-              "url": "https://akirabox.com/jJD3VvoR73a5/file"
+              "name": "Game - Viki",
+              "url": "https://vikingfile.com/f/DMP6eSSnvx"
             },
             {
               "name": "Game - Rootz",
-              "url": "https://www.rootz.so/d/2IJKYi"
+              "url": "https://www.rootz.so/d/usmYq"
             },
             {
               "name": "Game - 1File",
@@ -20447,48 +20785,48 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Akia",
-              "url": "https://akirabox.com/N2p3DVexxGMa/file"
-            },
-            {
               "name": "Game - Viki",
               "url": "https://vikingfile.com/f/njne8Kd6pr"
+            },
+            {
+              "name": "Game - Rootz",
+              "url": "https://www.rootz.so/d/80gaW"
             },
             {
               "name": "Game - 1File",
               "url": "https://1fichier.com/?k0wqmv6xegoyv7ik5twq&af=4186346"
             },
             {
-              "name": "Backport - Akia",
-              "url": "https://akirabox.com/qLQ36WK2lz19/file"
-            },
-            {
               "name": "Backport - Viki",
               "url": "https://vikingfile.com/f/m3dUBMGzJY"
+            },
+            {
+              "name": "Backport - Rootz",
+              "url": "https://www.rootz.so/d/qL41Q"
             },
             {
               "name": "Backport - 1File",
               "url": "https://1fichier.com/?eekpj4hhy6l1p89i7gzz&af=4186346"
             },
             {
-              "name": "Backport - Akia",
-              "url": "https://akirabox.com/gXeGOBoZjzAa/file"
-            },
-            {
               "name": "Backport - Viki",
               "url": "https://vikingfile.com/f/5jwV1pSk3J"
+            },
+            {
+              "name": "Backport - Rootz",
+              "url": "https://www.rootz.so/d/2739aC"
             },
             {
               "name": "Backport - 1File",
               "url": "https://1fichier.com/?mm3a6kboc2dbema1y4g6&af=4186346"
             },
             {
-              "name": "DLC - Akia",
-              "url": "https://akirabox.com/Zvqzlv9JBmaD/file"
-            },
-            {
               "name": "DLC - Viki",
               "url": "https://vikingfile.com/f/fBked5uemV"
+            },
+            {
+              "name": "DLC - Rootz",
+              "url": "https://www.rootz.so/d/1yzRr6\nhttps://www.rootz.so/d/1chIFk\nhttps://www.rootz.so/d/1qvkC8\nhttps://www.rootz.so/d/eFVQm\nhttps://www.rootz.so/d/1uxb3g\nhttps://www.rootz.so/d/iHMIK\nhttps://www.rootz.so/d/U2uQ4"
             },
             {
               "name": "DLC - 1File",
@@ -20651,8 +20989,12 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Akia",
-              "url": "https://akirabox.com/obj3jvNoo3Dx/file"
+              "name": "Game - Viki",
+              "url": "https://vikingfile.com/f/v1vjxKLZaH"
+            },
+            {
+              "name": "Game - Rootz",
+              "url": "https://www.rootz.so/d/1F22sa"
             },
             {
               "name": "Game - 1File",
@@ -20811,28 +21153,28 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Akia",
-              "url": "https://akirabox.com/RMKGJwwJ8m1o/file"
+              "name": "Game - Viki",
+              "url": "https://vikingfile.com/f/47NircqleS"
             },
             {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/o1TD7LfNd0"
+              "name": "Game - Rootz",
+              "url": "https://www.rootz.so/d/1OimDQ"
             },
             {
               "name": "Game - 1File",
-              "url": "https://1fichier.com/?r1jm7clgpx8jsks59oyt&af=4186346"
-            },
-            {
-              "name": "Backport - Akia",
-              "url": "https://akirabox.com/ZvqzlvvAYmaD/file"
+              "url": "https://1fichier.com/?n5iq7ebaduaywp06x5zi&af=4186346"
             },
             {
               "name": "Backport - Viki",
-              "url": "https://vikingfile.com/f/bxvOweDMvI"
+              "url": "https://vikingfile.com/f/jajlmW0jgt"
+            },
+            {
+              "name": "Backport - Rootz",
+              "url": "https://www.rootz.so/d/yOlkW"
             },
             {
               "name": "Backport - 1File",
-              "url": "https://1fichier.com/?jro6bdqt8hkuya5nc7gl&af=4186346"
+              "url": "https://1fichier.com/?oqayo9tkq2p95ksu3n9k&af=4186346"
             }
           ]
         }
@@ -20847,10 +21189,6 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Akia",
-              "url": "https://akirabox.com/qLQ364EedG19/file"
-            },
-            {
               "name": "Game - Rootz",
               "url": "https://www.rootz.so/d/1WYntQ"
             },
@@ -20859,12 +21197,12 @@
               "url": "https://1fichier.com/?hy62xoyiihte649n3ilr&af=4186346"
             },
             {
-              "name": "Fix - Akia",
-              "url": "https://akirabox.com/Pbe3PdVYL3lX/file"
+              "name": "Fix - Viki",
+              "url": "https://vikingfile.com/f/V8JiKRYItY"
             },
             {
               "name": "Fix - Rootz",
-              "url": "https://www.rootz.so/d/28848"
+              "url": "https://www.rootz.so/d/ucqiu"
             },
             {
               "name": "Fix - 1File",
@@ -20967,12 +21305,12 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Akia",
-              "url": "https://akirabox.com/0KezkD9JJGD1/file"
+              "name": "Game - Viki",
+              "url": "https://vikingfile.com/f/rvPtVi6khM"
             },
             {
               "name": "Game - Rootz",
-              "url": "https://rootz.so/d/xK9Nw"
+              "url": "https://www.rootz.so/d/bqgF6"
             },
             {
               "name": "Game - 1File",
@@ -21207,12 +21545,12 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Akia",
-              "url": "https://akirabox.com/qLQ3648oYG19/file"
+              "name": "Game - Viki",
+              "url": "https://vikingfile.com/f/SMWRorcb1g"
             },
             {
               "name": "Game - Rootz",
-              "url": "https://www.rootz.so/d/2daV6"
+              "url": "https://www.rootz.so/d/yudQO"
             },
             {
               "name": "Game - 1File",
@@ -21499,10 +21837,6 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Akia",
-              "url": "https://akirabox.com/dZxG54RvNzVj/file"
-            },
-            {
               "name": "Game - Rootz",
               "url": "https://www.rootz.so/d/1vbUcC"
             },
@@ -21571,12 +21905,16 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Akia",
-              "url": "https://akirabox.com/b5OzdM0n4GB8/file"
+              "name": "Game - Viki",
+              "url": "https://vikingfile.com/f/dn3mA0a7yF"
             },
             {
               "name": "Game - Rootz",
               "url": "https://rootz.so/d/25TzzU"
+            },
+            {
+              "name": "Game - 1File",
+              "url": "https://1fichier.com/?o3oh3oym3hjhc3ecb1uk&af=4186346"
             }
           ]
         }
@@ -22095,12 +22433,16 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Akia",
-              "url": "https://akirabox.com/E9Qz90dRr3OL/file"
+              "name": "Game - Viki",
+              "url": "https://vikingfile.com/f/ANK2GzIDEd"
             },
             {
               "name": "Game - Rootz",
-              "url": "https://rootz.so/d/13wfGy"
+              "url": "https://www.rootz.so/d/1Skd4y"
+            },
+            {
+              "name": "Game - 1File",
+              "url": "https://1fichier.com/?1yuyr12824w0z7lf26gp&af=4186346"
             }
           ]
         }
@@ -23807,16 +24149,40 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Akia",
-              "url": "https://akirabox.com/2bJG84L10GOB/file"
+              "name": "Game - Viki",
+              "url": "https://vikingfile.com/f/rmZ1ouwzfM"
             },
             {
               "name": "Game - Rootz",
-              "url": "https://www.rootz.so/d/XFNfU"
+              "url": "https://www.rootz.so/d/1Gf4UK"
             },
             {
               "name": "Game - 1File",
-              "url": "https://1fichier.com/?6s8udfac9a7k1sgmrx3n&af=4186346"
+              "url": "https://1fichier.com/?hrinyzjnw8gc9afm961p"
+            },
+            {
+              "name": "Backport - Viki",
+              "url": "https://vikingfile.com/f/OlJny0E9BW"
+            },
+            {
+              "name": "Backport - Rootz",
+              "url": "https://www.rootz.so/d/1CdDcm"
+            },
+            {
+              "name": "Backport - 1File",
+              "url": "https://1fichier.com/?46dwalmja1rh9honak69"
+            },
+            {
+              "name": "Backport - Viki",
+              "url": "https://vikingfile.com/f/l92le7z7CH"
+            },
+            {
+              "name": "Backport - Rootz",
+              "url": "https://www.rootz.so/d/2LHbWa"
+            },
+            {
+              "name": "Backport - 1File",
+              "url": "https://1fichier.com/?jogkgyyrlinrj19nmady"
             }
           ]
         }
@@ -23831,12 +24197,12 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Akia",
-              "url": "https://akirabox.com/wgWGq5NYwG4o/file"
+              "name": "Game - Viki",
+              "url": "https://vikingfile.com/f/fSMZhjlX4s"
             },
             {
               "name": "Game - Rootz",
-              "url": "https://www.rootz.so/d/11bEzw"
+              "url": "https://www.rootz.so/d/12wUHw"
             },
             {
               "name": "Game - 1File",
@@ -24031,12 +24397,12 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Akia",
-              "url": "https://akirabox.com/0KezkEqYRmD1/file"
+              "name": "Game - Viki",
+              "url": "https://vikingfile.com/f/pks4WmjYfS"
             },
             {
               "name": "Game - Rootz",
-              "url": "https://www.rootz.so/d/17G7TE"
+              "url": "https://www.rootz.so/d/2BasBk"
             },
             {
               "name": "Game - 1File",
@@ -24137,26 +24503,6 @@
             {
               "name": "Game - Gofile",
               "url": "https://gofile.io/d/uac7fa"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "baseTitleId": "PPSA22102",
-      "title": "Squirrel With A Gun",
-      "variations": [
-        {
-          "name": "PPSA22102 – USA",
-          "source": "superPSX",
-          "links": [
-            {
-              "name": "Game - Akia",
-              "url": "https://akirabox.com/gXeGO19rA3Aa/file"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/Abqgw3VYIw"
             }
           ]
         }
@@ -24419,24 +24765,24 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Akia",
-              "url": "https://akirabox.com/ex5z2BLoyzKq/file"
+              "name": "Game - Viki",
+              "url": "https://vikingfile.com/f/SxhrpUDmo1"
             },
             {
               "name": "Game - Rootz",
-              "url": "https://www.rootz.so/d/1sLRKa"
+              "url": "https://www.rootz.so/d/2DDtnU"
             },
             {
               "name": "Game - 1File",
               "url": "https://1fichier.com/?kbjbnqqdpxik2m8kymht&af=4186346"
             },
             {
-              "name": "Backport - Akia",
-              "url": "https://akirabox.com/0rpmv6gJJmRg/file"
+              "name": "Backport - Viki",
+              "url": "https://vikingfile.com/f/IId31CbXIM"
             },
             {
               "name": "Backport - Rootz",
-              "url": "https://www.rootz.so/d/22I6VM"
+              "url": "https://www.rootz.so/d/29C2vw"
             },
             {
               "name": "Backport - 1File",
@@ -24991,12 +25337,16 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Akia",
-              "url": "https://akirabox.com/Y2xm0gwy9GRO/file"
+              "name": "Game - Viki",
+              "url": "https://vikingfile.com/f/gTvuSiit0C"
             },
             {
               "name": "Game - Rootz",
-              "url": "https://rootz.so/d/piDOi"
+              "url": "https://www.rootz.so/d/O862i"
+            },
+            {
+              "name": "Game - 1File",
+              "url": "https://1fichier.com/?ldb8kwudxkhzr0ze5laa&af=4186346"
             }
           ]
         }
@@ -25107,24 +25457,24 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Akia",
-              "url": "https://akirabox.com/wgWGq9JkDG4o/file"
+              "name": "Game - Viki",
+              "url": "https://vikingfile.com/f/ORtihehbc8"
             },
             {
               "name": "Game - Rootz",
-              "url": "http://localhost:3000/d/KuaKO"
+              "url": "https://www.rootz.so/d/qqvlQ"
             },
             {
               "name": "Game - 1File",
               "url": "https://1fichier.com/?4wenbn15xxzexto7dbtr&af=4186346"
             },
             {
-              "name": "Backport - Akia",
-              "url": "https://akirabox.com/LJlGnl1pZ315/file"
+              "name": "Backport - Viki",
+              "url": "https://vikingfile.com/f/MtxjW7NVXx"
             },
             {
               "name": "Backport - Rootz",
-              "url": "http://localhost:3000/d/1Xap5k"
+              "url": "https://www.rootz.so/d/23XASe"
             },
             {
               "name": "Backport - 1File",
@@ -25143,12 +25493,12 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Akia",
-              "url": "https://akirabox.com/l5YzMpx7e3yO/file"
+              "name": "Game - Viki",
+              "url": "https://vikingfile.com/f/XSmSNFEZ7x"
             },
             {
               "name": "Game - Rootz",
-              "url": "https://rootz.so/d/241Tlo"
+              "url": "https://www.rootz.so/d/1UNegi"
             },
             {
               "name": "Game - 1File",
@@ -25177,30 +25527,6 @@
             {
               "name": "Game - 1File",
               "url": "https://1fichier.com/?ek1bwe2c94ncqqai0msi&af=4186346"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "baseTitleId": "PPSA03977",
-      "title": "The Witcher III Wild Hunt Complete Edition",
-      "variations": [
-        {
-          "name": "PPSA03977 – USA",
-          "source": "superPSX",
-          "links": [
-            {
-              "name": "Fix - Akia",
-              "url": "https://akirabox.com/0PdzyqE4qzeA/file"
-            },
-            {
-              "name": "Fix - Rootz",
-              "url": "https://rootz.so/d/1HsBlo"
-            },
-            {
-              "name": "Fix - 1File",
-              "url": "https://1fichier.com/?hotp2yjqjk0pac5xe1wk&af=4186346"
             }
           ]
         }
@@ -25527,28 +25853,40 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Akia",
-              "url": "https://akirabox.com/0PdzyqB08zeA/file"
+              "name": "Game - Viki",
+              "url": "https://vikingfile.com/f/Ssua92lxZc"
             },
             {
               "name": "Game - Rootz",
-              "url": "https://rootz.so/d/H4ZMm"
+              "url": "https://www.rootz.so/d/WBnlo"
             },
             {
-              "name": "Backport - Akia",
-              "url": "https://akirabox.com/wgWGq9OeaG4o/file"
+              "name": "Game - 1File",
+              "url": "https://1fichier.com/?e10cnqc16273h7vae1va&af=4186346"
             },
             {
-              "name": "Backport - Rootz",
-              "url": "https://rootz.so/d/1DdOfw"
-            },
-            {
-              "name": "Backport - Akia",
-              "url": "https://akirabox.com/APVmaBlkj3Xo/file"
+              "name": "Backport - Viki",
+              "url": "https://vikingfile.com/f/9S9w6Xyg6z"
             },
             {
               "name": "Backport - Rootz",
-              "url": "https://rootz.so/d/90rdg"
+              "url": "https://www.rootz.so/d/1is2T2"
+            },
+            {
+              "name": "Backport - 1File",
+              "url": "https://1fichier.com/?h3f3qd5n2jnppg07curo&af=4186346"
+            },
+            {
+              "name": "Backport - Viki",
+              "url": "https://vikingfile.com/f/TKWwLEkrVZ"
+            },
+            {
+              "name": "Backport - Rootz",
+              "url": "https://www.rootz.so/d/S9wuG"
+            },
+            {
+              "name": "Backport - 1File",
+              "url": "https://1fichier.com/?dbywx13qww0vderx3ij2&af=4186346"
             }
           ]
         }
@@ -25731,12 +26069,12 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Akia",
-              "url": "https://akirabox.com/Z9dzBxgk5mk1/file"
+              "name": "Game - Viki",
+              "url": "https://vikingfile.com/f/TcUBhom1I2"
             },
             {
               "name": "Game - Rootz",
-              "url": "https://www.rootz.so/d/13EGbg"
+              "url": "https://www.rootz.so/d/27Z1KC"
             },
             {
               "name": "Game - 1File",
@@ -26007,16 +26345,32 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Akia",
-              "url": "https://akirabox.com/Y2xm0qRaq3RO/file"
+              "name": "Game - Viki",
+              "url": "https://vikingfile.com/f/jJhbqy99cP"
             },
             {
               "name": "Game - Rootz",
-              "url": "https://www.rootz.so/d/LVwJc"
+              "url": "https://www.rootz.so/d/2HFkf2"
             },
             {
               "name": "Game - 1File",
               "url": "https://1fichier.com/?61rrswr7fyj3leliyz6m&af=4186346"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "baseTitleId": "PPSA31327",
+      "title": "Yakuza 0 Director’s Cut",
+      "variations": [
+        {
+          "name": "PPSA31327 – USA",
+          "source": "superPSX",
+          "links": [
+            {
+              "name": "Game - Gofile",
+              "url": "https://gofile.io/d/PO3nnV"
             }
           ]
         }
