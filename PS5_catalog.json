@@ -11262,8 +11262,8 @@
     },
     {
       "baseTitleId": "PPSA26786",
-      "title": "Indiana Jones and The Great Circle Premium Edition",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Indiana_Jones_and_The_Great_Circle_Premium_Edition.png",
+      "title": "Indiana Jones and The Great Circle",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Indiana_Jones_and_The_Great_Circle.avif",
       "variations": [
         {
           "name": "PPSA26786 – USA (exFAT)",
@@ -11271,31 +11271,23 @@
           "links": [
             {
               "name": "exFAT - akia_url",
-              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiWUc3am93MW9jclY4UGl0SUxhMGJ1SlQxVWU0d2hXSDgzaDV0SWtvUHNYaXBNSVZoeGIwU3dnUGxYWklobXQwZVpCVlY4VEZwNHRHL2RSZk1Vb0xyd01JVFFjVXU5Tjg4UE1zPSIsImkiOiJiY3Y3WStXd3Q5azJpbXpFIiwibiI6IkFraWEifQ=="
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoicGRXTW42ei9oaDNlVW9uYk1UcjI4NVA3ZjcwNWZaeHF2RHRzMCs1RTVpcGhNQVEyU1cyWGVNTkE1aml0dVpueU81dDNmZ3RjUmtNRmFRejYxYlFNUEw4cTFRaUw3Um9IaGNZPSIsImkiOiJrVUptenFYRklKNktHSHQrIiwibiI6IkFraWEifQ=="
             },
             {
               "name": "exFAT - viki_url",
-              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiUkhYZ0ZTeGkxcDUrOUxaZXp3YWhubUhSeUZVUk5xakZ5UVBGeENtUFowUC9RN2dTUHdIWS8xSmFnQ2Juak9wOHVJK29sdS9UeCtKb1Bia2lIUDM3TFdSYW5ZbHB4aHc9IiwiaSI6IjdmZDdKcVJmYUg4ZEVFaGYiLCJuIjoiVmlraSJ9"
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiTVc0cnNXVm9LSm92ZW5xcDc3Mndqa24zMlFzUStBdGRuRFdLY1NyVnlsV2lKZytVQnhFMVYxQkgyQ0lDUnRKU25qZzFYN2IwbTJqWmhSaHNyOHoybnFlN2htYlozekE9IiwiaSI6Ik1QQWxzbUs5cndCd05hRWoiLCJuIjoiVmlraSJ9"
             },
             {
               "name": "exFAT - data_url",
-              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoieGlaTTh4WWpXWjRvZE1oYSs3bDV5YzhqNjdiZzRXYmNWanhVcTQrVnBiOXRxZ2pKdSs3U0lGbHZYQi9VbkxrbG1pY0RFUnBjWEtPR2JxNllqcklOUGo2T2tlOTgiLCJpIjoidUVvV2p0TWE1cThrSWFwcyIsIm4iOiJEYXRhIn0="
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoibi9nL0dHL1VHcm8yTE5wVUJEd3l2QXAyS2hGN0JXRDFpUXUvVWFWcFhDWHhCQUhpSk54dTJJZVM5OTdLZy94ZWhzZ25zVzdKV1ppQTRBRjdBZDRkWjBkK2dzMEwiLCJpIjoiQ2dTaTJXbjcwOXpndHJsSCIsIm4iOiJEYXRhIn0="
             },
             {
               "name": "exFAT - filek_url",
-              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoibFFvODB4d3pZNWI5Yjc0M21HWHhuZlh6T1RDMTRsTFlrNGVIUWZhTGZtaldmVnBPeTI3MSs2cVJsNThDcXd6S1VxMEJWVGRyRkVNemppZ2lQbUljME0yd0ZnSmwvZm89IiwiaSI6Ik41b1Qra2wwNGdhK2R5dVQiLCJuIjoiRmlsZUsifQ=="
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoibG1pdlZVSWlDbG4ydFplYXVIUWM3VURvTGNrOFJ0cGE1RnlzYVhJYXZrV1lYelRMNXNvVjBSczIyVGFOSUdueVdySnZCU25JSCtMTjVZbU00VjBkbmNBeHhGYjRmK2c9IiwiaSI6IjlHNFdjYm9TWFM4aEVXVGYiLCJuIjoiRmlsZUsifQ=="
             },
             {
               "name": "exFAT - vault_url",
-              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiOFNiUFlJK3l6MUNmSVNqcXFtMTZCZUhUcFl0ekk2OEJDaUtMWnRvL0Ftcy80clV5bUttb1hrWmZsbHNxTWYycUZPc2d3eUJXdFI5dmdkZXBrNGkzZ0FyWXFlR3VSZz09IiwiaSI6IjF2T1VFNU9ReFdLck5MbFMiLCJuIjoiVmF1bHQifQ=="
-            },
-            {
-              "name": "DLC - dlc_data",
-              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoidlZHek9rVm5CZVRpa01XcTZjV3lSeGlMcml3STI2NTVablBLQktMblRFWS9SanhpRkpNM05LQUI4UW9vVWw5akt6QlI4M0lRZGVkZFNSL0FnSG9jbzlHR0RIQ08iLCJpIjoiZElxeVB3bHRVOGhvQ3lhbyIsIm4iOiJEYXRhIn0="
-            },
-            {
-              "name": "DLC - dlc_filek",
-              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiYzlyNTk3cUx1N0p3d3laWGJOeUM1ZVNpR0tqOFltTGdnWXo5QVdUaDdLVzNvLzJjYjhiVzBQRDI1c0lkWFZ3ODd0ZlBQcmMwT0JVaEdIK2Zzd0R1dmRzd2dCeWFNQkE9IiwiaSI6IkxrTVFXcnpTa09tdkNvbmUiLCJuIjoiRmlsZUsifQ=="
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiZ0p5TlBHcklBZnp2eW1nWkM3WVZKNHBLbU5maCtKS2l6ajFaM0RzTzRuSWJDekFsaDNBQkJtVFhhRFVSblNkRkdCVkZUR3lIc1hraTArM3Z3SFpJYmVXQmtDLzUzZz09IiwiaSI6IktoMkp0K3A3eFQ1aEF3R08iLCJuIjoiVmF1bHQifQ=="
             }
           ]
         },
@@ -22416,16 +22408,6 @@
               "url": "https://datanodes.to/75wyd0arxmwt"
             }
           ]
-        },
-        {
-          "name": "PPSA07783 – USA",
-          "source": "superPSX",
-          "links": [
-            {
-              "name": "Game - Gofile",
-              "url": "https://gofile.io/d/Sek8Er"
-            }
-          ]
         }
       ]
     },
@@ -24326,6 +24308,49 @@
             {
               "name": "exFAT - vault_url",
               "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiZE9zb2JQL2M2U0FBSmxEU1lvcm5RT29VNDZrSDNBNWtRSThDU3MxeHZSSjFFeHFIZjRMV3RYMWRlNU5oT2wrcW5Tdm1zcExJNzBCYWllR2N5VDlVRVcwWEVhZjFIUT09IiwiaSI6Imllb0hzbU5CSUwwOW9KekgiLCJuIjoiVmF1bHQifQ=="
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "baseTitleId": "PPSA16033",
+      "title": "The Alters",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/The_Alters.avif",
+      "variations": [
+        {
+          "name": "PPSA16033 – EUR (exFAT)",
+          "source": "exFAT",
+          "links": [
+            {
+              "name": "exFAT - akia_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiSy9KVzJiMllVMnZoaG15OXIvTVFiZ29Xd2hIc3hlcElvY2FuTFUxUE5oU2hRcDBBWGxZR1h0eCtDRk9tcnVGT2pxak85Vjk1MGF2V2tHd0VWWFVlcnlJYllTNHVnbHNqWmNvPSIsImkiOiJQU2RDY0pPSk9tSHVQN1ZjIiwibiI6IkFraWEifQ=="
+            },
+            {
+              "name": "exFAT - viki_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoicmZKc1pxYVFYUTlyYk00S2ptaW1FRXBwZUZvNzcxY21IOEVQZ0JRVDNKZlV6WlQ2YnVJcmxGaU5qaCtyR2FoN0FGNDM3TExlWU15Sy9BS2laU2dpZzdzTXA5RkhhNnM9IiwiaSI6IndEYnhNUXh1Z3oyUXRrUWMiLCJuIjoiVmlraSJ9"
+            },
+            {
+              "name": "exFAT - data_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiV2QxekEyTGNuSlhnS3VNRVl5QThFOGV5Wi9mdkxGWTNRMWEyakJjT01IN2dRczBjUUYxTjNLRFVpbVY3alMzbDZZNVBlT1NxNnhFWkl6Wi9OOFlaWHJZTGdUMjEiLCJpIjoiQkp3TE9CdXlOcEc4Q0lNZiIsIm4iOiJEYXRhIn0="
+            },
+            {
+              "name": "exFAT - filek_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiekcydnkrcm02RnpYajZBWnJBVkIrbzJpMlVhRy8zWUJnYUZHZlh5eG55SzFiaHNZNGhsUEd5NVZqQS85N1hKK28vbWF2NFlGa3E5Tm5SYVJGcnplWU8zQzUxbWhodDA9IiwiaSI6IjdwOW1ETjFwbWM3V0k2YnYiLCJuIjoiRmlsZUsifQ=="
+            },
+            {
+              "name": "exFAT - vault_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiQWM0V2ROVFFrSjJaUEsvNGdSMXRNWWtSWlhKNTdZa0Jpa28yYzFCaUJlZEV0ek9IWFJPV3R1Nng2YVY3Y1ZkZWZpTmtNbHRIN2x3K3MrMmp6NmRsMDQ2eEszQ2ZkZz09IiwiaSI6ImJOMDNNTkJSVGNvWFRXQm4iLCJuIjoiVmF1bHQifQ=="
+            }
+          ]
+        },
+        {
+          "name": "PPSA16033 – USA",
+          "source": "superPSX",
+          "links": [
+            {
+              "name": "Game - Mirror",
+              "url": "https://rapidgator.net/article/premium/ref/21929"
             }
           ]
         }
@@ -29444,11 +29469,11 @@
             },
             {
               "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/PysPTVjOHn"
+              "url": "https://vikingfile.com/f/pfaMn7Kvj5"
             },
             {
               "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/pfaMn7Kvj5"
+              "url": "https://vikingfile.com/f/PysPTVjOHn"
             },
             {
               "name": "Game - Viki",
@@ -34774,23 +34799,6 @@
             {
               "name": "Game - 1File",
               "url": "https://1fichier.com/?lptvo1felmyieynhonm6&af=4186346"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "baseTitleId": "PPSA16033",
-      "title": "The Alters",
-      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2026/08/The-Alters-PS5.jpg",
-      "variations": [
-        {
-          "name": "PPSA16033 – USA",
-          "source": "superPSX",
-          "links": [
-            {
-              "name": "Game - Mirror",
-              "url": "https://rapidgator.net/article/premium/ref/21929"
             }
           ]
         }
