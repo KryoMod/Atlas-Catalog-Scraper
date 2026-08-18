@@ -647,48 +647,8 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Mirror",
-              "url": "https://rapidgator.net/article/premium/ref/21929"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/4bmAOugBYr"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/5qT7e6hDji"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/7fUeNvsqSd"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/bFDDRwOR9P"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/DiZYi1tdNk"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/gYoMJFM7Z5"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/QMb4VCdSyR"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/UaUziU0ddk"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/vlvpZJVNgv"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/wFUY5GJWPR"
+              "name": "Game - Multihost",
+              "url": "https://link-vault.org/c/91eyhz00"
             },
             {
               "name": "Backport - Viki",
@@ -1364,8 +1324,8 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Mirror",
-              "url": "https://rapidgator.net/article/premium/ref/21929"
+              "name": "Game - Multihost",
+              "url": "https://link-vault.org/c/3job1g5e"
             }
           ]
         }
@@ -2262,8 +2222,8 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Mirror",
-              "url": "https://rapidgator.net/article/premium/ref/21929"
+              "name": "Game - Multihost",
+              "url": "https://link-vault.org/c/jq64of71"
             }
           ]
         }
@@ -3653,8 +3613,8 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Mirror",
-              "url": "https://rapidgator.net/article/premium/ref/21929"
+              "name": "Game - Multihost",
+              "url": "https://link-vault.org/c/68pbgqrw"
             }
           ]
         }
@@ -3860,24 +3820,44 @@
           "source": "exFAT",
           "links": [
             {
-              "name": "exFAT - akia_url",
+              "name": "exFAT - standard_akia",
               "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiQ1FoNXZmRmZFaHI2bGtqNHQ2ejI4RnR3VTYwdHhveWVqV2ZiY2hwRHBEWTBOb1VEV2JWQUJFWi9TK2VWK3N4RnRHaTd3Qmo2Y1ZqWkJ0aVE1d0Q1SkpxeFVadVVoUEJ0NjVNPSIsImkiOiI1eEtCSmlOVW4wTDV4Z25DIiwibiI6IkFraWEifQ=="
             },
             {
-              "name": "exFAT - viki_url",
+              "name": "exFAT - standard_viki",
               "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiOW9uOUdRWUtudmEyditodTd6T2tCQmU3cnlPa3YxbE1BUFliY2NVdU1vY0o4U0xHMTJJdEJ4VG1IbUdYcDBLakR3K3pGV2d4aDJSNDNkK1pJUEdLOC9vTWQ0OEtBT289IiwiaSI6IjZPWFNuWnkrMmwwRjhQdTYiLCJuIjoiVmlraSJ9"
             },
             {
-              "name": "exFAT - data_url",
+              "name": "exFAT - standard_data",
               "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiN1g3TS9QbnUxSEpnY0ZDRkdYUHVOUXp6eWFEYW1PeExYd0lHSi80d2NkOCtJb3EzY0FOUVBLWVFrdFpWdHBXYjlETUxkd0wxQVlLWTNFNTl2THlJejlEYStTR1YiLCJpIjoiNzRsdU9FTkVJbStWajA5ZiIsIm4iOiJEYXRhIn0="
             },
             {
-              "name": "exFAT - filek_url",
+              "name": "exFAT - standard_filek",
               "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoieEhIYVFIQUV4dVcvV01ZUXlOMnhWQ0sxalNEZW9lUnN6K1VWWTBhN3RUbmJQZFZPRC9vbjRzU1o4WEtsYnd6MlYzekZQay9YV1RMai9SWVA4WG4ySlgrTks4dGtJQ2M9IiwiaSI6ImZhQytwYXNsQ0RzNVl6VFIiLCJuIjoiRmlsZUsifQ=="
             },
             {
-              "name": "exFAT - vault_url",
+              "name": "exFAT - standard_vault",
               "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiaWJBQ0hXZDd1K0UxTEVKZFBVU2VWQStVUS95U0E5dkFYU1l0Q0JpZCttYVhvYThxcmY4SmVUbzM0aGlua0NOTmdGZUpsMmpXT0FxcmtGZk9kR2Y5QXVQWGZocnp6QT09IiwiaSI6IlFPd0t5Y2xJL0dNbXB2VnAiLCJuIjoiVmF1bHQifQ=="
+            },
+            {
+              "name": "Backport - backport_akia",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiMzY3bXpOd2FJYXNNbEdLbjFjZFloZlQ2SFptVjlYMWlXNmk0dmRxUFFEUVdiYjZZT0VOYVpSRm9ObjVqMk13aEtBZnVzZEFKdkkxVzdtVlgxWUhZY2hYUUVIZTBqVHVpRjljPSIsImkiOiJXOG1tdGtJemZEMC9jUHNHIiwibiI6IkFraWEifQ=="
+            },
+            {
+              "name": "Backport - backport_viki",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiWTR4cGhRT3lVcXF5Z0NJT2hpbGhLRGQ1NXNtKzh5Qld6Z0c0L01KN3pHR3hQUWFQbU4vb05POGcydGJnZkJUZHpocHBjbDVyQ29ZNnFvRDlEMndaZnN5L0VXaHhIS0U9IiwiaSI6ImluLzQ2T1hkcVlERHNsa0wiLCJuIjoiVmlraSJ9"
+            },
+            {
+              "name": "Backport - backport_data",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoib3FCT21LV1JqeE9qOXhoZlZjSWhaWUh3MnUrV3ZmMmtjemZhMm10UGtmeVZJc25jZ0hZbEFiUGNPQ0JlR3hSaE5BRm54TUQycnpvcDR1cWdhZUlsU0RQQ3pJR08iLCJpIjoibXBLMDhYS0tBWHdqVmR1cyIsIm4iOiJEYXRhIn0="
+            },
+            {
+              "name": "Backport - backport_filek",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiT05iWTBDV3E3cWs1a0g5cVNQUzBmZHZVODVFcjNuNitJRGxrL3B4c1RybjNGZi9sSXJUWEFhMVp1K2lKSkhlbmx1cHVPdnFaMUdBc2d0eVBpYitYUnpMU1BTbC9jaTA9IiwiaSI6IllnVmFnanhwcG4yOTNHTkciLCJuIjoiRmlsZUsifQ=="
+            },
+            {
+              "name": "Backport - backport_vault",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoicUJNeWQyMm15RmNUK2hROWoxS3oxSTU2aktKOHZXY2JzREw4eUpOWFFKU0Z6b1Z3ZUxPR2w3YW8rZEdVeHcxRjJFTnJKODhUV3E2U3dDTnV5Nys0ckR2ZEdzbFFNUT09IiwiaSI6IkFkNW5HS2d2K2xuM3NFcG0iLCJuIjoiVmF1bHQifQ=="
             }
           ]
         },
@@ -3912,8 +3892,8 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "DLC - Mirror",
-              "url": "https://rapidgator.net/article/premium/ref/21929"
+              "name": "DLC - Multihost",
+              "url": "https://link-vault.org/c/ws0g1bjg"
             }
           ]
         }
@@ -3988,12 +3968,8 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "DLC - Mirror",
-              "url": "https://rapidgator.net/article/premium/ref/21929"
-            },
-            {
-              "name": "DLC - Gofile",
-              "url": "https://gofile.io/d/fGWOfX"
+              "name": "DLC - Multihost",
+              "url": "https://link-vault.org/c/t4458lhs"
             }
           ]
         }
@@ -4446,24 +4422,8 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Mirror",
-              "url": "https://rapidgator.net/article/premium/ref/21929"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/PysPTVjOHn"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/pfaMn7Kvj5"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/sw3HyTPHhm"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/UvRQsEVYvO"
+              "name": "Game - Multihost",
+              "url": "https://link-vault.org/c/ru73hb3z"
             }
           ]
         }
@@ -5531,48 +5491,8 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Mirror",
-              "url": "https://rapidgator.net/article/premium/ref/21929"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/2EBY6JrXk4"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/dpLGpiREIz"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/k69K2ooxiz"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/kAkzJt2rfh"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/muwJMkmZnI"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/O1R6wPwKbv"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/t4qX9aPViQ"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/V7sr2E2XEL"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/vLea1YjB4a"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/ZSn2pwIkQQ"
+              "name": "Game - Multihost",
+              "url": "https://link-vault.org/c/t3bkm6mg"
             },
             {
               "name": "Backport - Viki",
@@ -5675,24 +5595,8 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "DLC - Mirror",
-              "url": "https://rapidgator.net/article/premium/ref/21929"
-            },
-            {
-              "name": "DLC - Viki",
-              "url": "https://vikingfile.com/f/uu7dCreq1U"
-            },
-            {
-              "name": "DLC - Viki",
-              "url": "https://vikingfile.com/f/ew4P0H5plW"
-            },
-            {
-              "name": "DLC - Viki",
-              "url": "https://vikingfile.com/f/Xoe1a8AsfY"
-            },
-            {
-              "name": "DLC - Viki",
-              "url": "https://vikingfile.com/f/xdqfVKL1j9"
+              "name": "DLC - Multihost",
+              "url": "https://www.keepshield.org/safe/4ab120b9"
             },
             {
               "name": "Backport - Viki",
@@ -6609,16 +6513,6 @@
               "url": "https://datanodes.to/3f3sdboh8g06"
             }
           ]
-        },
-        {
-          "name": "PPSA01981 – USA",
-          "source": "superPSX",
-          "links": [
-            {
-              "name": "DLC - Mirror",
-              "url": "https://rapidgator.net/article/premium/ref/21929"
-            }
-          ]
         }
       ]
     },
@@ -6666,8 +6560,8 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Mirror",
-              "url": "https://rapidgator.net/article/premium/ref/21929"
+              "name": "Game - Mulithost",
+              "url": "https://link-vault.org/c/73g6innt"
             },
             {
               "name": "Backport - Viki",
@@ -7444,56 +7338,8 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Mirror",
-              "url": "https://rapidgator.net/article/premium/ref/21929"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?u12u8snw3oq04z7ngo46&af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?8n8gz9u1kb52n4mbdrld&af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?s8f6t8rbfjai2drtd7fi&af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?qsxzfypqouvj7rtohuqe&af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?ety6cq7inm1z37e1jlu3&af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?y4awqpw4d5r3syabd1dl&af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?u12u8snw3oq04z7ngo46&amp;af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?8n8gz9u1kb52n4mbdrld&amp;af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?s8f6t8rbfjai2drtd7fi&amp;af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?qsxzfypqouvj7rtohuqe&amp;af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?ety6cq7inm1z37e1jlu3&amp;af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?y4awqpw4d5r3syabd1dl&amp;af=4186346"
+              "name": "Game - Multihost",
+              "url": "https://link-vault.org/c/09k9dc53"
             }
           ]
         }
@@ -7568,8 +7414,8 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Mirror",
-              "url": "https://rapidgator.net/article/premium/ref/21929"
+              "name": "Game - Multihost",
+              "url": "https://link-vault.org/c/gu1dw224"
             }
           ]
         }
@@ -7836,48 +7682,8 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Mirror",
-              "url": "https://rapidgator.net/article/premium/ref/21929"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?phxn9cxqffc5jruzjvss&af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?k8oh3tfxnt2sorq0hfhq&af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?d6gfpedfduas2juorn8r&af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?fq031awjtuykoxnh6hey&af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?w5w3njvy9hh547pu5o3r&af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?phxn9cxqffc5jruzjvss&amp;af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?k8oh3tfxnt2sorq0hfhq&amp;af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?d6gfpedfduas2juorn8r&amp;af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?fq031awjtuykoxnh6hey&amp;af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?w5w3njvy9hh547pu5o3r&amp;af=4186346"
+              "name": "Game - Multihost",
+              "url": "https://link-vault.org/c/4f43ly2r"
             },
             {
               "name": "Backport - Rootz",
@@ -8699,7 +8505,7 @@
           "links": [
             {
               "name": "Game - Mutihost",
-              "url": "https://filecrypt.cc/Container/40F6DC68BD.html"
+              "url": "https://link-vault.org/c/i9qq1k74"
             }
           ]
         }
@@ -9299,7 +9105,7 @@
           "links": [
             {
               "name": "DLC - Multihost",
-              "url": "https://filecrypt.cc/Container/81CDA8E781.html"
+              "url": "https://link-vault.org/c/nzo02nzw"
             }
           ]
         }
@@ -9571,8 +9377,8 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Mirror",
-              "url": "https://rapidgator.net/article/premium/ref/21929"
+              "name": "Game - Multihost",
+              "url": "https://link-vault.org/c/b9g13brq"
             },
             {
               "name": "DLC - Viki",
@@ -9661,100 +9467,8 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Mirror",
-              "url": "https://rapidgator.net/article/premium/ref/21929"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/1kigJ0oTRB"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/2IdxAbW3Vl"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/5mFLwfFrvX"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/bJhtdFFAly"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/c1fKLnpl63"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/De1ipczNO3"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/e5Wj4iuisP"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/FSWgDRdP6Q"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/gunuN7OuNf"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/IffT8xFfk5"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/JxZCgFXMZe"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/LDCqOgofuM"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/LFCvqDxIzu"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/NSFYyQzgZv"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/PGZZcAccN2"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/s1Bks1NUiC"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/tNBCotzGOe"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/TZgVHdAgGn"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/v0qUJMPOTz"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/X4wNg31q4L"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/xpxb5SWCwy"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/YwOy32t16P"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/ZUxJDivCKY"
+              "name": "Game - Viki(parts)",
+              "url": "https://link-vault.org/c/1x1uhz7k"
             },
             {
               "name": "Game - Rootz",
@@ -12384,112 +12098,8 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Mirror",
-              "url": "https://rapidgator.net/article/premium/ref/21929"
-            },
-            {
               "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/2IFHx42R48"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/2iliZvDDih"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/3eXR2btUcQ"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/4ISq8iiXb2"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/5umdNYlfJ5"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/9P81tc5IUp"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/66G5KgatYZ"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/C5ahJa47Ci"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/C602rkh67I"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/dV2QElfNdn"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/eBSBi1YzWI"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/IBHjciOw9s"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/jvurRUBolG"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/onOQEovubt"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/pHXVGrPjcP"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/PizTDCpOYs"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/rA9s9lcRLj"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/t11B444G0c"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/tWGNymsO2I"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/wjiiCQ9Mre"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/XNp7O2zXj4"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/yduqqixnya"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/Yf3D2M9APZ"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/ZpiOQdS2ap"
-            },
-            {
-              "name": "Game - Gofile",
-              "url": "https://gofile.io/d/kOY7Ew"
-            },
-            {
-              "name": "Backport - Gofile",
-              "url": "https://gofile.io/d/EN0Xqn"
+              "url": "https://link-vault.org/c/l6u89y85"
             }
           ]
         }
@@ -13901,6 +13511,65 @@
       ]
     },
     {
+      "baseTitleId": "PPSA06406",
+      "title": "LEGO Brawls",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/LEGO_Brawls.avif",
+      "variations": [
+        {
+          "name": "PPSA06406 – EUR (exFAT)",
+          "source": "exFAT",
+          "links": [
+            {
+              "name": "exFAT - akia_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiRnl6bytUMG9mWVVKT25ieWFWSjVFQU40MDV5eEhGYWo2YlhLaFdpakxweXVQQmJIK0ZjYVlRUDJieVdxTzNLZzdaSTNzdm11b1dMNzdqcWFZdW9sTTNVcENRVEtZaU1JbzdZPSIsImkiOiJMYWV3dkJKUW1tRFN6S29QIiwibiI6IkFraWEifQ=="
+            },
+            {
+              "name": "exFAT - viki_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiRGFyK051anRvT29rK0cyQkQxT3FhODVrVDIyZm9VVUg0UklobGs0UDBsYW1YRnlvWTRSRjBxR3NJVGoxdTBpQ0tPZDVjWkE3VGlsMG9MNmwxcmpNaDRFS2JyYlhEekU9IiwiaSI6InJUNExnM09FbEFrc0RzaHQiLCJuIjoiVmlraSJ9"
+            },
+            {
+              "name": "exFAT - data_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiQlhSMnVvVFBXMnFBNlY4L29PZWh6NUdaR2hERmNpZU9NNEhQMzZ0YXJKekdHVG02c25Qb0YxS2FaWTVPcFhZZThKSTZoejBGSGFiVnJtVHdiWEhhOEVjMlFzZzgiLCJpIjoiZnAxSkxKWGpmaW1DSkVWdiIsIm4iOiJEYXRhIn0="
+            },
+            {
+              "name": "exFAT - filek_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiR2g4bmdxdXZNT1A3b0lGQTNrSy9IWGN2Nm1iL0dQTmFHYm5SUXh4SE5MSlU2ZERCMXE5MUl6cUN1NVdYbXF5Rk1SVUhYWDQ5bWdqSGt2cng4bWJXeWhNa2tseCtTNTQ9IiwiaSI6IkVlUkdPTDNMa3p1eEJ5MisiLCJuIjoiRmlsZUsifQ=="
+            },
+            {
+              "name": "exFAT - vault_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiU2ZXZ1Z0Zll1NTZ5QTBhM1BVVDJHaWthSENzdVNtM2g0eXJ1MVVSNnM5dGJxSm1FQm1PME5Tb1cxK1gvSllJd3orbHFZaWpjTmJxRWJSWlIyQ0l0bmVKa3lVdlp2UT09IiwiaSI6Inl1MFdRbmhuZDN1S1lGbkciLCJuIjoiVmF1bHQifQ=="
+            }
+          ]
+        },
+        {
+          "name": "PPSA06406 – USA (exFAT)",
+          "source": "exFAT",
+          "links": [
+            {
+              "name": "exFAT - akia_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiVGNMOW5sZUJ3YjRHaVdNQmhFankxa3RCMkpyUkZWbGF0VkRzdHh6Yk8zbFZsRFRscmdZb0FlU3NYNW94bWlmdmE5VkZmTUhPVjRMYVVKZE56YzVDNWtlOGd6RzVCMk5HRnY4PSIsImkiOiJNLzE0QUhPUXZ2WHZ6ZmNRIiwibiI6IkFraWEifQ=="
+            },
+            {
+              "name": "exFAT - viki_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiQzFjZk1hL2c0RnFRUllKU3RSTnhGOTdBZWxMZ21wL0pPL3RSait6U3dCbDBseGd5cDFUL1JyVnZZUTV1aFNoUmcyUHhGUXRNTURzUEt2dmZaSmxDVFVjMHdxUG0raGM9IiwiaSI6IndoYjFwaU44TW1vYWpTbjUiLCJuIjoiVmlraSJ9"
+            },
+            {
+              "name": "exFAT - data_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoicW9VMS9obGkxQk5hWDBYZ2JNaGEyZyszUDR3dEhVODR1T21Lb2hKc3BZL3hhVWgzUU5vWnRJMlcrckJocnd1OE5wVkF1VDJqVCtBdkZFd3hMdFI4QUJ5ek5Yb0wiLCJpIjoiZUEralk5Y0VLK09jOXJIdSIsIm4iOiJEYXRhIn0="
+            },
+            {
+              "name": "exFAT - filek_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiUXZ3MXdSSHVIOWFVRUEra3UyaHV4cGJ2L2ZIWXJwYTYzWFZRMk8wNjBia1dlQnlnbFo4U1lPSGxJOTVvdG1hUjJDQVRUcEhTSUE1QWxveEpLK09VWnM3VlNTUDlMZ1U9IiwiaSI6IjZONzczMjNaRk1QV1N4ekYiLCJuIjoiRmlsZUsifQ=="
+            },
+            {
+              "name": "exFAT - vault_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoibWthS05yZHdvR2o1RzUvaGZZZWpySFAwS2NMdXR3eHV6OGtFTkRZNzFJY3RFa1lVU2tpWDF2V0JtQ0pTTnZGT0p5V2V2c2k2L3loK1JpaFhCU3hHQ09RTXVSaG1pZz09IiwiaSI6IjVaTHJidHNQelJMSElMclUiLCJuIjoiVmF1bHQifQ=="
+            }
+          ]
+        }
+      ]
+    },
+    {
       "baseTitleId": "PPSA22946",
       "title": "LEGO Harry Potter Collection",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/LEGO_Harry_Potter_Collection.avif",
@@ -14264,56 +13933,8 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Mirror",
-              "url": "https://rapidgator.net/article/premium/ref/21929"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?i4c7ror3jus8fz05lwzm&af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?2zn5u53y6s7aza40x72p&af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?s8efj6yyss657dkvig1u&af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?w01eyqg2j6t7pvlbvdci&af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?4sgryzl4rfj9qsf79jev&af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?bme61deh6nyqpm4g7hy3&af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?i4c7ror3jus8fz05lwzm&amp;af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?2zn5u53y6s7aza40x72p&amp;af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?s8efj6yyss657dkvig1u&amp;af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?w01eyqg2j6t7pvlbvdci&amp;af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?4sgryzl4rfj9qsf79jev&amp;af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?bme61deh6nyqpm4g7hy3&amp;af=4186346"
+              "name": "Game - Multihost",
+              "url": "https://link-vault.org/c/elnx2pfe"
             },
             {
               "name": "Backport - Rootz",
@@ -14371,8 +13992,8 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Mirror",
-              "url": "https://rapidgator.net/article/premium/ref/21929"
+              "name": "Game - Multihost",
+              "url": "https://link-vault.org/c/r5ts86zm"
             },
             {
               "name": "DLC - Viki",
@@ -14477,8 +14098,8 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Mirror",
-              "url": "https://rapidgator.net/article/premium/ref/21929"
+              "name": "Game - Multihost",
+              "url": "https://link-vault.org/c/424vdqkd"
             },
             {
               "name": "Backport - Rootz",
@@ -15100,64 +14721,8 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Mirror",
-              "url": "https://rapidgator.net/article/premium/ref/21929"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?wruhtj4rcu61sujrue0d&af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?tpz974dgmbf83qbiuais&af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?6z32q7ijsrj29ikk4hof&af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?cq16q15ul8g8zkr9s6b4&af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?i0pqb4wq3pkpo0yd2vox&af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?l36etu4lod7y7p0ldalp&af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?689asx66qdfbsvs6nocp&af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?wruhtj4rcu61sujrue0d&amp;af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?tpz974dgmbf83qbiuais&amp;af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?6z32q7ijsrj29ikk4hof&amp;af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?cq16q15ul8g8zkr9s6b4&amp;af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?i0pqb4wq3pkpo0yd2vox&amp;af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?l36etu4lod7y7p0ldalp&amp;af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?689asx66qdfbsvs6nocp&amp;af=4186346"
+              "name": "Game - Multihost",
+              "url": "https://link-vault.org/c/hbt0bqj1"
             }
           ]
         }
@@ -15566,56 +15131,8 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "DLC - Mirror",
-              "url": "https://rapidgator.net/article/premium/ref/21929"
-            },
-            {
-              "name": "DLC - Filek",
-              "url": "https://filekeeper.net/qg7omrmfmwxi/[SPSX]-Marvels.Spider.Man.2.DE.PPSA03016â€“USA.Game.(v01.004.003).[APR-EMU].[ALL-DLC].part01.rar"
-            },
-            {
-              "name": "DLC - Filek",
-              "url": "https://filekeeper.net/v0ax6coy0jqb/[SPSX]-Marvels.Spider.Man.2.DE.PPSA03016â€“USA.Game.(v01.004.003).[APR-EMU].[ALL-DLC].part02.rar"
-            },
-            {
-              "name": "DLC - Filek",
-              "url": "https://filekeeper.net/43mcq06i2xfw/[SPSX]-Marvels.Spider.Man.2.DE.PPSA03016â€“USA.Game.(v01.004.003).[APR-EMU].[ALL-DLC].part03.rar"
-            },
-            {
-              "name": "DLC - Filek",
-              "url": "https://filekeeper.net/c60uadbxtbom/[SPSX]-Marvels.Spider.Man.2.DE.PPSA03016â€“USA.Game.(v01.004.003).[APR-EMU].[ALL-DLC].part04.rar"
-            },
-            {
-              "name": "DLC - Filek",
-              "url": "https://filekeeper.net/cubfbf5gt8lb/[SPSX]-Marvels.Spider.Man.2.DE.PPSA03016â€“USA.Game.(v01.004.003).[APR-EMU].[ALL-DLC].part05.rar"
-            },
-            {
-              "name": "DLC - Filek",
-              "url": "https://filekeeper.net/4mfcr58wi7xd/[SPSX]-Marvels.Spider.Man.2.DE.PPSA03016â€“USA.Game.(v01.004.003).[APR-EMU].[ALL-DLC].part06.rar"
-            },
-            {
-              "name": "DLC - Filek",
-              "url": "https://filekeeper.net/wakcgh8dsqfp/[SPSX]-Marvels.Spider.Man.2.DE.PPSA03016â€“USA.Game.(v01.004.003).[APR-EMU].[ALL-DLC].part07.rar"
-            },
-            {
-              "name": "DLC - Filek",
-              "url": "https://filekeeper.net/v9obv8ykgx7a/[SPSX]-Marvels.Spider.Man.2.DE.PPSA03016â€“USA.Game.(v01.004.003).[APR-EMU].[ALL-DLC].part08.rar"
-            },
-            {
-              "name": "DLC - Filek",
-              "url": "https://filekeeper.net/onssck1intk1/[SPSX]-Marvels.Spider.Man.2.DE.PPSA03016â€“USA.Game.(v01.004.003).[APR-EMU].[ALL-DLC].part09.rar"
-            },
-            {
-              "name": "DLC - Filek",
-              "url": "https://filekeeper.net/yy0bxrsbp8a3/[SPSX]-Marvels.Spider.Man.2.DE.PPSA03016â€“USA.Game.(v01.004.003).[APR-EMU].[ALL-DLC].part10.rar"
-            },
-            {
-              "name": "DLC - Filek",
-              "url": "https://filekeeper.net/eye8yognrgin/[SPSX]-Marvels.Spider.Man.2.DE.PPSA03016â€“USA.Game.(v01.004.003).[APR-EMU].[ALL-DLC].part11.rar"
-            },
-            {
-              "name": "DLC - Filek",
-              "url": "https://filekeeper.net/m5pqeagj61gi/[SPSX]-Marvels.Spider.Man.2.DE.PPSA03016â€“USA.Game.(v01.004.003).[APR-EMU].[ALL-DLC].part12.rar"
+              "name": "DLC - Multihosts",
+              "url": "https://link-vault.org/c/s0ur6u32"
             },
             {
               "name": "Backport - Filek",
@@ -15704,6 +15221,39 @@
             {
               "name": "Game - Multihost",
               "url": "https://filecrypt.cc/Container/6C87ED5102.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "baseTitleId": "PPSA18629",
+      "title": "Master Detective Archives RAIN CODE Plus",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Master_Detective_Archives_RAIN_CODE_Plus.avif",
+      "variations": [
+        {
+          "name": "PPSA18629 – USA (exFAT)",
+          "source": "exFAT",
+          "links": [
+            {
+              "name": "exFAT - akia_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoieC9EUmRzUmVlUkZ1Nm1OajEzV3NCQTFFMnQwWDVlSDMrVysxMnhiT2xROURwNU82TUU1azF0dTVVR2VBWTVBRk51c2htTGNXOHFlNzFPTldGK05MdHU3eWwySmdoS2FGVGJVPSIsImkiOiI2QWRBYTd5NmQ1TUpYQVVNIiwibiI6IkFraWEifQ=="
+            },
+            {
+              "name": "exFAT - viki_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoia3NPeUtvSnhUMlFDbnFJbFJaSzBYRTAwMjc4QjFScDhBcmpuY09rSHBwUGxuWmhCdlVZMmVrYlFaUVh4NUV5UHBoWnhJSkxoYWVPREFoZ24xekRPMk1qVHNmRGhNVm89IiwiaSI6IkNtcUJEdTBqMGg3RFg4VlQiLCJuIjoiVmlraSJ9"
+            },
+            {
+              "name": "exFAT - data_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoidStPNkpyd08rbDNDS09UbUY2U1AyMi9hUkRJRHB3aUJJZjIzbmUrU0p1WWl3ZGRzMmdVTDUzb0djYSs2SEJYbnd2VHJOTS9NK0FCUy9xN1JOdWtlT09HZjBRY0UiLCJpIjoiOGMvbnp2U3IxNGUyNjhoaiIsIm4iOiJEYXRhIn0="
+            },
+            {
+              "name": "exFAT - filek_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiL3hvaUVWRzliY0s2UUZ1MHpmWGRRaHBNeElRRGVEL1hLZklVcFQxcjQ5R2hCOUg0aDNOUnFNZ2NEaTA3d05rREd2RWdWWk9mSWlVbjZGWlZWK2RDVUMvNUlYYVRBUDA9IiwiaSI6IjJnQzdWUDF0U0l4UzdoNCsiLCJuIjoiRmlsZUsifQ=="
+            },
+            {
+              "name": "exFAT - vault_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiYWpPejVDeHNQSUZKS1cwMktnZUdWZGhTRTBucVpreWxycEZGOGF6Wm9EL3N0Z29tSHlFdldwMWprcHdIMWZicUEvazNqc1NXazhMTVVlNU1qamNqbmMyT3lvY3ZSUT09IiwiaSI6IjUzZC9DYmJGWk9FcW5KZEgiLCJuIjoiVmF1bHQifQ=="
             }
           ]
         }
@@ -15872,8 +15422,8 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "DLC - Mirror",
-              "url": "https://rapidgator.net/article/premium/ref/21929"
+              "name": "DLC - Multihost",
+              "url": "https://link-vault.org/c/iiaxe7hq"
             },
             {
               "name": "Backport - Viki",
@@ -15980,8 +15530,8 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "DLC - Mirror",
-              "url": "https://rapidgator.net/article/premium/ref/21929"
+              "name": "DLC - Multihost",
+              "url": "https://link-vault.org/c/vqcn621s"
             }
           ]
         }
@@ -16016,7 +15566,7 @@
           "links": [
             {
               "name": "Game - Multihost",
-              "url": "https://filecrypt.cc/Container/28BFD38152.html"
+              "url": "https://link-vault.org/c/qmksf5dm"
             }
           ]
         }
@@ -17157,8 +16707,8 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Mirror",
-              "url": "https://rapidgator.net/article/premium/ref/21929"
+              "name": "Game - Multihost",
+              "url": "https://link-vault.org/c/dlyy2v1f"
             },
             {
               "name": "Backport - Viki",
@@ -17923,8 +17473,8 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "DLC - Mirror",
-              "url": "https://rapidgator.net/article/premium/ref/21929"
+              "name": "DLC - Multihost",
+              "url": "https://link-vault.org/c/eyn6zqzv"
             },
             {
               "name": "Backport - Viki",
@@ -18059,8 +17609,8 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Mirror",
-              "url": "https://rapidgator.net/article/premium/ref/21929"
+              "name": "Game - Multihost",
+              "url": "https://link-vault.org/c/k1a1go3c"
             }
           ]
         }
@@ -20420,40 +19970,8 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "DLC - Mirror",
-              "url": "https://rapidgator.net/article/premium/ref/21929"
-            },
-            {
-              "name": "DLC - Filek",
-              "url": "https://filekeeper.net/4fccx04itfl7/[SuperPSX.com]-PPSA30803_(v01.200)_+_All_DLC.part01.rar"
-            },
-            {
-              "name": "DLC - Filek",
-              "url": "https://filekeeper.net/l4jw0vglu5ba/[SuperPSX.com]-PPSA30803_(v01.200)_+_All_DLC.part02.rar"
-            },
-            {
-              "name": "DLC - Filek",
-              "url": "https://filekeeper.net/wt09nqv3c7gu/[SuperPSX.com]-PPSA30803_(v01.200)_+_All_DLC.part03.rar"
-            },
-            {
-              "name": "DLC - Filek",
-              "url": "https://filekeeper.net/214fr8dttubh/[SuperPSX.com]-PPSA30803_(v01.200)_+_All_DLC.part04.rar"
-            },
-            {
-              "name": "DLC - Filek",
-              "url": "https://filekeeper.net/8fjarnqyhkok/[SuperPSX.com]-PPSA30803_(v01.200)_+_All_DLC.part05.rar"
-            },
-            {
-              "name": "DLC - Filek",
-              "url": "https://filekeeper.net/mhfwr230o2ku/[SuperPSX.com]-PPSA30803_(v01.200)_+_All_DLC.part06.rar"
-            },
-            {
-              "name": "DLC - Filek",
-              "url": "https://filekeeper.net/ovtvguae9at9/[SuperPSX.com]-PPSA30803_(v01.200)_+_All_DLC.part07.rar"
-            },
-            {
-              "name": "DLC - Filek",
-              "url": "https://filekeeper.net/ef0b5tfodqg2/[SuperPSX.com]-PPSA30803_(v01.200)_+_All_DLC.part08.rar"
+              "name": "DLC - Multihosts",
+              "url": "https://link-vault.org/c/4b7c9sqh"
             },
             {
               "name": "Game - Viki",
@@ -20462,6 +19980,10 @@
             {
               "name": "Game - Akia",
               "url": "https://akirabox.com/0JgG7LQx8moY/file"
+            },
+            {
+              "name": "Game - Rootz (10parts)",
+              "url": "https://www.keepshield.org/safe/ae62c83f"
             },
             {
               "name": "Game - 1File",
@@ -20883,24 +20405,8 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Mirror",
-              "url": "https://rapidgator.net/article/premium/ref/21929"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?x6zi8asj0lvk1bd3kfc3&af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?9kzabcl1jzsu3qg2yf3l&af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?x6zi8asj0lvk1bd3kfc3&amp;af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?9kzabcl1jzsu3qg2yf3l&amp;af=4186346"
+              "name": "Game - Multihost",
+              "url": "https://link-vault.org/c/0bnmfx21"
             }
           ]
         }
@@ -22652,7 +22158,7 @@
           "links": [
             {
               "name": "Game - Multihost",
-              "url": "https://filecrypt.cc/Container/AFE2DF9935.html"
+              "url": "https://link-vault.org/c/gozaw4ye"
             },
             {
               "name": "Backport - Viki",
@@ -24154,12 +23660,8 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Mirror",
-              "url": "https://rapidgator.net/article/premium/ref/21929"
-            },
-            {
-              "name": "Game - Gofile",
-              "url": "https://gofile.io/d/emYqWD"
+              "name": "Game - Multihost",
+              "url": "https://link-vault.org/c/o9o91bay"
             }
           ]
         }
@@ -24705,8 +24207,8 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Mirror",
-              "url": "https://rapidgator.net/article/premium/ref/21929"
+              "name": "Game - Multihost",
+              "url": "https://link-vault.org/c/tfqby4w9"
             },
             {
               "name": "Backport - Viki",
@@ -25974,7 +25476,7 @@
           "links": [
             {
               "name": "Game - Multihost",
-              "url": "https://filecrypt.cc/Container/36A7E4DF72.html"
+              "url": "https://link-vault.org/c/2ymffvmz"
             }
           ]
         }
@@ -26374,104 +25876,8 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Mirror",
-              "url": "https://rapidgator.net/article/premium/ref/21929"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?ru89e94w4ynx3jejbzan&af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?l8u8e0jeuhqgbgj9s7fd&af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?21x8ixt7uzenc2b584pp&af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?pihjvmacq1sbgwooi4qo&af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?ced3xyoed46192i5ytlp&af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?vzl2rhkv054f91j9lr1i&af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?e7mjj568mvoljkcuweej&af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?ssocvgido8d0ygff97qs&af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?js0jgho19v0lglrffy9d&af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?nsab8i3ubyf9htw9ej30&af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?6sn30u7xxyd7s6xurvyi&af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?209wbrfj00czy98iu59q&af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?ru89e94w4ynx3jejbzan&amp;af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?l8u8e0jeuhqgbgj9s7fd&amp;af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?21x8ixt7uzenc2b584pp&amp;af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?pihjvmacq1sbgwooi4qo&amp;af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?ced3xyoed46192i5ytlp&amp;af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?vzl2rhkv054f91j9lr1i&amp;af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?e7mjj568mvoljkcuweej&amp;af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?ssocvgido8d0ygff97qs&amp;af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?js0jgho19v0lglrffy9d&amp;af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?nsab8i3ubyf9htw9ej30&amp;af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?6sn30u7xxyd7s6xurvyi&amp;af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?209wbrfj00czy98iu59q&amp;af=4186346"
+              "name": "Game - Multihost",
+              "url": "https://link-vault.org/c/o544pcz4"
             },
             {
               "name": "Backport - Viki",
@@ -27293,8 +26699,8 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Mirror",
-              "url": "https://rapidgator.net/article/premium/ref/21929"
+              "name": "Game - Multihost",
+              "url": "https://link-vault.org/c/bbjukofi"
             },
             {
               "name": "Backport - Viki",
@@ -28340,8 +27746,8 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Mirror",
-              "url": "https://rapidgator.net/article/premium/ref/21929"
+              "name": "Game - Multihost",
+              "url": "https://link-vault.org/c/9un1wylj"
             },
             {
               "name": "Backport - Viki",
@@ -28913,8 +28319,8 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Mirror",
-              "url": "https://rapidgator.net/article/premium/ref/21929"
+              "name": "Game - Multihost",
+              "url": "https://link-vault.org/c/vb9uitg1"
             },
             {
               "name": "Backport - Viki",
@@ -29305,16 +28711,8 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "DLC - Mirror",
-              "url": "https://rapidgator.net/article/premium/ref/21929"
-            },
-            {
-              "name": "DLC - Viki",
-              "url": "https://vikingfile.com/f/dONOYyC7K7"
-            },
-            {
-              "name": "DLC - Viki",
-              "url": "https://vikingfile.com/f/W3vCEL1kTZ"
+              "name": "DLC - Multihost",
+              "url": "https://link-vault.org/c/tvti79do"
             },
             {
               "name": "DLC - Viki",
@@ -29743,32 +29141,6 @@
               "url": "https://datanodes.to/fnasqkeovcwz"
             }
           ]
-        },
-        {
-          "name": "PPSA09519 – USA",
-          "source": "superPSX",
-          "links": [
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/OulJCr95Ar"
-            },
-            {
-              "name": "Game - Rootz",
-              "url": "https://www.rootz.so/d/2BAmTQ"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?hnpw4o74545edb6pu9gi&af=4186346"
-            },
-            {
-              "name": "Backport - Viki",
-              "url": "https://vikingfile.com/f/kt1CYVqtkU"
-            },
-            {
-              "name": "Backport - Rootz",
-              "url": "https://www.rootz.so/d/1z5Dsm"
-            }
-          ]
         }
       ]
     },
@@ -30089,7 +29461,7 @@
           "links": [
             {
               "name": "Game - Multihost",
-              "url": "https://filecrypt.cc/Container/51F4B543C8.html"
+              "url": "https://link-vault.org/c/fm73qf5x"
             },
             {
               "name": "Backport - Viki",
@@ -30628,60 +30000,8 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Mirror",
-              "url": "https://rapidgator.net/article/premium/ref/21929"
-            },
-            {
-              "name": "Game - Filek",
-              "url": "https://filekeeper.net/uqrfekulxojn/[SuperPSX.com]-PPSA20396_(v01.019.076)_[APR-EMU].part01.rar"
-            },
-            {
-              "name": "Game - Filek",
-              "url": "https://filekeeper.net/fhipg1ftyvke/[SuperPSX.com]-PPSA20396_(v01.019.076)_[APR-EMU].part02.rar"
-            },
-            {
-              "name": "Game - Filek",
-              "url": "https://filekeeper.net/nj6m964f5whz/[SuperPSX.com]-PPSA20396_(v01.019.076)_[APR-EMU].part03.rar"
-            },
-            {
-              "name": "Game - Filek",
-              "url": "https://filekeeper.net/fyr5u2mlyd6r/[SuperPSX.com]-PPSA20396_(v01.019.076)_[APR-EMU].part04.rar"
-            },
-            {
-              "name": "Game - Filek",
-              "url": "https://filekeeper.net/qoimpna6g1bp/[SuperPSX.com]-PPSA20396_(v01.019.076)_[APR-EMU].part05.rar"
-            },
-            {
-              "name": "Game - Filek",
-              "url": "https://filekeeper.net/b9jag1qo66gx/[SuperPSX.com]-PPSA20396_(v01.019.076)_[APR-EMU].part06.rar"
-            },
-            {
-              "name": "Game - Filek",
-              "url": "https://filekeeper.net/y9211nt5tdis/[SuperPSX.com]-PPSA20396_(v01.019.076)_[APR-EMU].part07.rar"
-            },
-            {
-              "name": "Game - Filek",
-              "url": "https://filekeeper.net/2i089qzx3nr2/[SuperPSX.com]-PPSA20396_(v01.019.076)_[APR-EMU].part08.rar"
-            },
-            {
-              "name": "Game - Filek",
-              "url": "https://filekeeper.net/f0pfl88wl63p/[SuperPSX.com]-PPSA20396_(v01.019.076)_[APR-EMU].part09.rar"
-            },
-            {
-              "name": "Game - Filek",
-              "url": "https://filekeeper.net/l0c1i7yb3meb/[SuperPSX.com]-PPSA20396_(v01.019.076)_[APR-EMU].part10.rar"
-            },
-            {
-              "name": "Game - Filek",
-              "url": "https://filekeeper.net/1oqcd2iiafm3/[SuperPSX.com]-PPSA20396_(v01.019.076)_[APR-EMU].part11.rar"
-            },
-            {
-              "name": "Game - Filek",
-              "url": "https://filekeeper.net/qyuzfawowjf9/[SuperPSX.com]-PPSA20396_(v01.019.076)_[APR-EMU].part12.rar"
-            },
-            {
-              "name": "Game - Filek",
-              "url": "https://filekeeper.net/ort4dab7ey91/[SuperPSX.com]-PPSA20396_(v01.019.076)_[APR-EMU].part13.rar"
+              "name": "Game - Multihosts",
+              "url": "https://link-vault.org/c/7mtc0uu7"
             },
             {
               "name": "Backport - Filek",
@@ -30709,8 +30029,8 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Mirror",
-              "url": "https://rapidgator.net/article/premium/ref/21929"
+              "name": "Game - Multihost",
+              "url": "https://link-vault.org/c/qh9n0u73"
             }
           ]
         }
@@ -31433,44 +30753,8 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Mirror",
-              "url": "https://rapidgator.net/article/premium/ref/21929"
-            },
-            {
-              "name": "Game - Filek",
-              "url": "https://filekeeper.net/7vy3zx2ppwnz"
-            },
-            {
-              "name": "Game - Filek",
-              "url": "https://filekeeper.net/9bwh4exdrezn"
-            },
-            {
-              "name": "Game - Filek",
-              "url": "https://filekeeper.net/9y7f6qgonflw"
-            },
-            {
-              "name": "Game - Filek",
-              "url": "https://filekeeper.net/agf4qt99vvjb"
-            },
-            {
-              "name": "Game - Filek",
-              "url": "https://filekeeper.net/e1xo3syobtum"
-            },
-            {
-              "name": "Game - Filek",
-              "url": "https://filekeeper.net/ehmpfdvqkwls"
-            },
-            {
-              "name": "Game - Filek",
-              "url": "https://filekeeper.net/nvskf3op71tk"
-            },
-            {
-              "name": "Game - Filek",
-              "url": "https://filekeeper.net/wo5nhlykjtos"
-            },
-            {
-              "name": "Game - Filek",
-              "url": "https://filekeeper.net/x3qiut5qgz49"
+              "name": "Game - Multihost",
+              "url": "https://link-vault.org/c/ve9k18m9"
             },
             {
               "name": "Game - Akia",
@@ -31656,28 +30940,8 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Mirror",
-              "url": "https://rapidgator.net/article/premium/ref/21929"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/860QQ1u5ne"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/BGHngnvF9L"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/K4Lthh8rUR"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/QDvZPhONdv"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/s6e7ehBkJT"
+              "name": "Game - Multihost",
+              "url": "https://link-vault.org/c/3650v352"
             },
             {
               "name": "Backport - Viki",
@@ -31760,64 +31024,8 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Mirror",
-              "url": "https://rapidgator.net/article/premium/ref/21929"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?v31lhglpg65mji0yuvps&af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?sl0mmwl0zwo7wyeg7ekj&af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?4hrfrujctnsnq17u26lk&af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?ilj1p4emta69o4dscqii&af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?4ccmhfdob1xlqi0epti7&af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?c83an1026prh9z9k7soy&af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?uycw5zvv3k5wnv219w12&af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?v31lhglpg65mji0yuvps&amp;af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?sl0mmwl0zwo7wyeg7ekj&amp;af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?4hrfrujctnsnq17u26lk&amp;af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?ilj1p4emta69o4dscqii&amp;af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?4ccmhfdob1xlqi0epti7&amp;af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?c83an1026prh9z9k7soy&amp;af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?uycw5zvv3k5wnv219w12&amp;af=4186346"
+              "name": "Game - Multihost",
+              "url": "https://link-vault.org/c/ju8xef2y"
             },
             {
               "name": "DLC - Viki",
@@ -31992,6 +31200,23 @@
             {
               "name": "Game - 1File",
               "url": "https://1fichier.com/?n23g2e2an7pep3khbwtf&af=4186346"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "baseTitleId": "PPSA01982",
+      "title": "DOOM Eternal",
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2026/06/DOOM-Eternal-PS5.jpg",
+      "variations": [
+        {
+          "name": "PPSA01982 – USA",
+          "source": "superPSX",
+          "links": [
+            {
+              "name": "DLC - Multihost",
+              "url": "https://link-vault.org/c/68tx71hg"
             }
           ]
         }
@@ -32999,8 +32224,8 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Mirror",
-              "url": "https://rapidgator.net/article/premium/ref/21929"
+              "name": "Game - Multihost",
+              "url": "https://link-vault.org/c/rt0658qn"
             }
           ]
         }
@@ -33279,123 +32504,11 @@
           "links": [
             {
               "name": "Game - Multihost",
-              "url": "https://filecrypt.cc/Container/B96B2E3E1B.html"
+              "url": "https://link-vault.org/c/5k0izvc8"
             },
             {
-              "name": "DLC - Mirror",
-              "url": "https://rapidgator.net/article/premium/ref/21929"
-            },
-            {
-              "name": "DLC - 1File",
-              "url": "https://1fichier.com/?cw4058itqmgrfl5k5t5c&af=4186346"
-            },
-            {
-              "name": "DLC - 1File",
-              "url": "https://1fichier.com/?cinf7lhkakhtnptv9mim&af=4186346"
-            },
-            {
-              "name": "DLC - 1File",
-              "url": "https://1fichier.com/?292wwrcxyif5t8fgoq8p&af=4186346"
-            },
-            {
-              "name": "DLC - 1File",
-              "url": "https://1fichier.com/?d9f3auc0hqv1tr9p0npp&af=4186346"
-            },
-            {
-              "name": "DLC - 1File",
-              "url": "https://1fichier.com/?fcnyay8nro4yh114wrx3&af=4186346"
-            },
-            {
-              "name": "DLC - 1File",
-              "url": "https://1fichier.com/?kxulnm9i0uj6pft8h8z1&af=4186346"
-            },
-            {
-              "name": "DLC - 1File",
-              "url": "https://1fichier.com/?qm3h730ne97zkiqx6qvp&af=4186346"
-            },
-            {
-              "name": "DLC - 1File",
-              "url": "https://1fichier.com/?rau4zc8kby9bk6vnh69l&af=4186346"
-            },
-            {
-              "name": "DLC - 1File",
-              "url": "https://1fichier.com/?fzq028f22mn6r44tporz&af=4186346"
-            },
-            {
-              "name": "DLC - 1File",
-              "url": "https://1fichier.com/?m1mp567wi0hukubk0ag4&af=4186346"
-            },
-            {
-              "name": "DLC - 1File",
-              "url": "https://1fichier.com/?b2y4aqocwmeq6dhb4jl9&af=4186346"
-            },
-            {
-              "name": "DLC - 1File",
-              "url": "https://1fichier.com/?ew9guznj1duh2j0cuin6&af=4186346"
-            },
-            {
-              "name": "DLC - 1File",
-              "url": "https://1fichier.com/?est240jkdzyv32qjufj4&af=4186346"
-            },
-            {
-              "name": "DLC - 1File",
-              "url": "https://1fichier.com/?z15kejq9mfvfl8e0h0qb&af=4186346"
-            },
-            {
-              "name": "DLC - 1File",
-              "url": "https://1fichier.com/?cw4058itqmgrfl5k5t5c&amp;af=4186346"
-            },
-            {
-              "name": "DLC - 1File",
-              "url": "https://1fichier.com/?cinf7lhkakhtnptv9mim&amp;af=4186346"
-            },
-            {
-              "name": "DLC - 1File",
-              "url": "https://1fichier.com/?292wwrcxyif5t8fgoq8p&amp;af=4186346"
-            },
-            {
-              "name": "DLC - 1File",
-              "url": "https://1fichier.com/?d9f3auc0hqv1tr9p0npp&amp;af=4186346"
-            },
-            {
-              "name": "DLC - 1File",
-              "url": "https://1fichier.com/?fcnyay8nro4yh114wrx3&amp;af=4186346"
-            },
-            {
-              "name": "DLC - 1File",
-              "url": "https://1fichier.com/?kxulnm9i0uj6pft8h8z1&amp;af=4186346"
-            },
-            {
-              "name": "DLC - 1File",
-              "url": "https://1fichier.com/?qm3h730ne97zkiqx6qvp&amp;af=4186346"
-            },
-            {
-              "name": "DLC - 1File",
-              "url": "https://1fichier.com/?rau4zc8kby9bk6vnh69l&amp;af=4186346"
-            },
-            {
-              "name": "DLC - 1File",
-              "url": "https://1fichier.com/?fzq028f22mn6r44tporz&amp;af=4186346"
-            },
-            {
-              "name": "DLC - 1File",
-              "url": "https://1fichier.com/?m1mp567wi0hukubk0ag4&amp;af=4186346"
-            },
-            {
-              "name": "DLC - 1File",
-              "url": "https://1fichier.com/?b2y4aqocwmeq6dhb4jl9&amp;af=4186346"
-            },
-            {
-              "name": "DLC - 1File",
-              "url": "https://1fichier.com/?ew9guznj1duh2j0cuin6&amp;af=4186346"
-            },
-            {
-              "name": "DLC - 1File",
-              "url": "https://1fichier.com/?est240jkdzyv32qjufj4&amp;af=4186346"
-            },
-            {
-              "name": "DLC - 1File",
-              "url": "https://1fichier.com/?z15kejq9mfvfl8e0h0qb&amp;af=4186346"
+              "name": "DLC - Multihost",
+              "url": "https://link-vault.org/c/qps7ngsj"
             }
           ]
         }
@@ -34184,32 +33297,8 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Mirror",
-              "url": "https://rapidgator.net/article/premium/ref/21929"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/F2M20URDf1"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/M46u2X07gF"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/tpqXjV8ldx"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/UHKrgo1OBb"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/V9ienqz6BE"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/ylAWQi9fad"
+              "name": "Game - Multihosts",
+              "url": "https://link-vault.org/c/8r17slgv"
             },
             {
               "name": "exFAT - Akia",
@@ -34710,8 +33799,8 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Mirror",
-              "url": "https://rapidgator.net/article/premium/ref/21929"
+              "name": "Game - Mutlihost",
+              "url": "https://link-vault.org/c/dh0bnwqg"
             }
           ]
         }
@@ -34727,8 +33816,8 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Mirror",
-              "url": "https://rapidgator.net/article/premium/ref/21929"
+              "name": "Game - Mutlihost",
+              "url": "https://link-vault.org/c/fepqkob4"
             }
           ]
         }
@@ -34868,8 +33957,8 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Mirror",
-              "url": "https://rapidgator.net/article/premium/ref/21929"
+              "name": "Game - Multihost",
+              "url": "https://link-vault.org/c/c09jgy32"
             }
           ]
         }
@@ -35590,44 +34679,8 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Mirror",
-              "url": "https://rapidgator.net/article/premium/ref/21929"
-            },
-            {
-              "name": "Game - Filek",
-              "url": "https://filekeeper.net/wzdkskwi2ucz/[SuperPSX]-Rise.of.The.Ronin-PPSA04540-EUR-Game-(v01.009)_[APR-EMU]-PS5.part01.rar"
-            },
-            {
-              "name": "Game - Filek",
-              "url": "https://filekeeper.net/123sc2qf2109/[SuperPSX]-Rise.of.The.Ronin-PPSA04540-EUR-Game-(v01.009)_[APR-EMU]-PS5.part02.rar"
-            },
-            {
-              "name": "Game - Filek",
-              "url": "https://filekeeper.net/gb2no544pjzv/[SuperPSX]-Rise.of.The.Ronin-PPSA04540-EUR-Game-(v01.009)_[APR-EMU]-PS5.part03.rar"
-            },
-            {
-              "name": "Game - Filek",
-              "url": "https://filekeeper.net/ql992wd0y85x/[SuperPSX]-Rise.of.The.Ronin-PPSA04540-EUR-Game-(v01.009)_[APR-EMU]-PS5.part04.rar"
-            },
-            {
-              "name": "Game - Filek",
-              "url": "https://filekeeper.net/bc4bv1vkenr3/[SuperPSX]-Rise.of.The.Ronin-PPSA04540-EUR-Game-(v01.009)_[APR-EMU]-PS5.part05.rar"
-            },
-            {
-              "name": "Game - Filek",
-              "url": "https://filekeeper.net/ejgivf70s5df/[SuperPSX]-Rise.of.The.Ronin-PPSA04540-EUR-Game-(v01.009)_[APR-EMU]-PS5.part06.rar"
-            },
-            {
-              "name": "Game - Filek",
-              "url": "https://filekeeper.net/28js2fh1tsc6/[SuperPSX]-Rise.of.The.Ronin-PPSA04540-EUR-Game-(v01.009)_[APR-EMU]-PS5.part07.rar"
-            },
-            {
-              "name": "Game - Filek",
-              "url": "https://filekeeper.net/enns62gs23h9/[SuperPSX]-Rise.of.The.Ronin-PPSA04540-EUR-Game-(v01.009)_[APR-EMU]-PS5.part08.rar"
-            },
-            {
-              "name": "Game - Filek",
-              "url": "https://filekeeper.net/3qh8vbhuhp3o/[SuperPSX]-Rise.of.The.Ronin-PPSA04540-EUR-Game-(v01.009)_[APR-EMU]-PS5.part09.rar"
+              "name": "Game - Multihosts",
+              "url": "https://link-vault.org/c/4gheqsso"
             }
           ]
         }
@@ -35904,40 +34957,8 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Mirror",
-              "url": "https://rapidgator.net/article/premium/ref/21929"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?nlgq0pndxpsto0ga28jy&af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?odtfsmn11kz2yn8lvp4r&af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?sdrx4miz23jxhfhcs2lr&af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?xck7i0z31qck6hpq257z&af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?nlgq0pndxpsto0ga28jy&amp;af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?odtfsmn11kz2yn8lvp4r&amp;af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?sdrx4miz23jxhfhcs2lr&amp;af=4186346"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?xck7i0z31qck6hpq257z&amp;af=4186346"
+              "name": "Game - Multihost",
+              "url": "https://link-vault.org/c/4enpe33q"
             },
             {
               "name": "Backport - Viki",
@@ -37668,8 +36689,8 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Mirror",
-              "url": "https://rapidgator.net/article/premium/ref/21929"
+              "name": "Game - Multihost",
+              "url": "https://link-vault.org/c/0z0makok"
             },
             {
               "name": "Backport - Viki",
@@ -37698,7 +36719,7 @@
           "links": [
             {
               "name": "Game - Multihost",
-              "url": "https://filecrypt.cc/Container/63A12D3DA2.html"
+              "url": "https://link-vault.org/c/gpsrofto"
             },
             {
               "name": "DLC - Viki",
@@ -37833,6 +36854,23 @@
       ]
     },
     {
+      "baseTitleId": "PPSA09518",
+      "title": "WUCHANG Fallen Feathers",
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2026/03/WUCHANG-Fallen-Feathers-PS5.webp",
+      "variations": [
+        {
+          "name": "PPSA09518 – USA",
+          "source": "superPSX",
+          "links": [
+            {
+              "name": "Game - Multihosts",
+              "url": "https://link-vault.org/c/955vkbrc"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "baseTitleId": "",
       "title": "WWE 2K22",
       "posterUrl": "https://www.superpsx.com/wp-content/uploads/2025/03/WWE-2K22-PS5.png",
@@ -37909,8 +36947,8 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Mirror",
-              "url": "https://rapidgator.net/article/premium/ref/21929"
+              "name": "Game - Multihost",
+              "url": "https://link-vault.org/c/febjffjv"
             },
             {
               "name": "DLC - Viki",
