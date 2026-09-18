@@ -730,6 +730,26 @@
             {
               "name": "exFAT - vault_url",
               "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiSmNZcXFXbkdjZ21Za0hDMm94NUk0dndkS0wxZ1grdzNQVU5sZERRckEzcW9DeHFKR2RuWU1SdzRBaVhjUjBPTnJUSUNudTl4Q1dPQ3lTbG1KU1RFczJwRHRIdjRuZz09IiwiaSI6InR4c1NPK0FHUWtMWkZrZnIiLCJuIjoiVmF1bHQifQ=="
+            },
+            {
+              "name": "Backport - fpkg_backport_akia",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoia2F2R0o4alRIWFRSVXhSTWdwU0pGMkVpdTVpeUhIREk3QUdRVHdGaUJxMUNoSFM2TitoaS9MQnBVSjhOeE5XN1BuMmNJVGdIaExDZ29SZXdsQUNzSFk1NE1SMUx3aStwWmFrPSIsImkiOiJKSFh1L3EyeU9xWXRPUzVSIiwibiI6IkFraWEifQ=="
+            },
+            {
+              "name": "Backport - fpkg_backport_viki",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoicnNUOVVmbUJwZWk2S0pyQ3VQR3J4VnQ3SW1ZamVTa1BqelVUMTJEaW16QStNbWFkOFFsRzVZSjhGenZnSGdUVzVzVkRrWUZQZitubTJNWUd3SlRPdE90TGtLckREOTg9IiwiaSI6IlZxaFFHMTM3L1MrMzJVdHoiLCJuIjoiVmlraSJ9"
+            },
+            {
+              "name": "Backport - fpkg_backport_data",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiaXQ5NHlMeHVxeTdROSsrcC9lN2h1d2FkUzdzZXhMbzJOcFhDK1kyaWxma3RkbWtuU2JwYUZJODJwbFc4RzkxMWd3RU9la21PdDRnbGk1b1ZFWmRIVXU1WDZ5VzEiLCJpIjoiUmtZU3FLMTlSVk9mRlhHaCIsIm4iOiJEYXRhIn0="
+            },
+            {
+              "name": "Backport - fpkg_backport_filek",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiSGZPcmZvRFNkOEpmdnY5WHNIVStZdUIrV2R2TndTMU1iQ2JVQ0hGa0pFZ3VMdElnUlNZckhib2hBWi9vV0NpMXE2enAreUJFS1ZNRzh3dG53bkRKRU1RZ2cweEZaeEU9IiwiaSI6IktYQ0tXMkxrN3ZXcytWSCsiLCJuIjoiRmlsZUsifQ=="
+            },
+            {
+              "name": "Backport - fpkg_backport_vault",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiRm5TQmF3OUZMMzVoL3dwMWNTMXdkS3JZUWd5S0hSQUVaNnZOQURJSGEwWEdpZEVWTkFjUU5TYlkvR2RWTHprY0o1TDZkK2JnSGhjOHRVcFJISENaeW9seEsyZ09YUT09IiwiaSI6IjBQTHUydHp0S1UwMXFPeXkiLCJuIjoiVmF1bHQifQ=="
             }
           ]
         },
@@ -2346,12 +2366,32 @@
               "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiY1BKTU9VK20wMUlVYnVJYWp1MXI5YkxGY1BGanJLbk1KMkFUOGVNQ3VXMXU1aE95QkIwRlQxZG03UVFqYWRtbG1yYzZjTnYzaVpsRDJ1cEpURjA3aHNuYmpRaEI3UT09IiwiaSI6InYxSUVXdnIxQnlKZEpEQ3EiLCJuIjoiVmF1bHQifQ=="
             },
             {
-              "name": "DLC - dlc_data",
-              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoib2czOWNBUkxSWHNsT01EbjZZZjVBMWF3NmJwL2M4RGxlK3RPNHZTZjQ1SVhGOTN4eVE4VWVaR1pNVXE2THQ4bGdwbW05OXZOVWlvUG1OMDdNMDI3TE5RYWFHRUgiLCJpIjoiT2JSSUVYa0l0OXlYRnFUTiIsIm4iOiJEYXRhIn0="
+              "name": "exFAT - fpkg_akia",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoidStjZ1ZveVczNFV4ZEprL3Q2TjJEY3JGbE8zMVBkc0lmeVFueHFqa2ZablV5N2lHdFZMWXlGVnNmNWNETnAwZjdydm5sUFd3aitXSkdlRk02bXpudnQ3cVdLcWNkZUxHdFBZPSIsImkiOiIyQXF3M0taNmgzaDEvanBrIiwibiI6IkFraWEifQ=="
             },
             {
-              "name": "DLC - dlc_filek",
-              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiQXJPVHRTenR5TnY4Yko2ZlNvbk9XNHg4YmZqSDlNVlVkK1daYXJQSVpwQ3drTmVZUldsWTh4Zm1yRVVua0xPcENTNXIzd0c2UWh1UnhobWdPUHZDV1RwWWx2elNOdkE9IiwiaSI6InlKUWZiVllYNGJOa3VIbTEiLCJuIjoiRmlsZUsifQ=="
+              "name": "exFAT - fpkg_viki",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiUGxFQXQrREZ0VisxcjVSdW0vc2JIeGdXN3MvNmhJNG5pVmVtelc1VkswUVAzQzlQMzRlb2UvWUxQMFBkYVNYN09zSnVNQzZHLzNpVWNHeDF4czJFZGdaY1lmQ0VXN2M9IiwiaSI6IjZ1UWgyUXVoWUEvL3pqYjkiLCJuIjoiVmlraSJ9"
+            },
+            {
+              "name": "exFAT - fpkg_data",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiZll3dU13enJVN2xLQ3QyVVFwR0QrRFJYSld5enFRMy9ZSVlyU0QzdG8reTdoN1BqcWZSNW5NcjJuQi9xNTl2SW9xOTJRemorZFZQMUlDMldVdncwTTlOeU5IM3EiLCJpIjoiUytRelNlRjl3VVZrRmw5eiIsIm4iOiJEYXRhIn0="
+            },
+            {
+              "name": "exFAT - fpkg_filek",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiSE42YmNleE8vYnVTUkxXV2E0NDhHQUNKbktXQmJnTVErRHVHaGxqeTJjQ2xsdzJBT2YwWXkyUkxZcm8xa1A5WEw5MWY3ZXJscjB1MnN3L2hiVTBaMmo1UFF2dzJDYkk9IiwiaSI6IndqN3hML1dMeVl1VTdaK04iLCJuIjoiRmlsZUsifQ=="
+            },
+            {
+              "name": "exFAT - fpkg_vault",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiWHJTQUZBRUtYMkxXcWdTZlRyWTRKNHFaYzhkNXVvdmZvc0lHWEY3b3FzTnVFbkJFWkMzV2tZanFmYjE4WjQvTnFaMXhRbitiNmxUM0xGbE8yT1ZZNnRaQzJDWmdWZz09IiwiaSI6IjgwTklwK2xaRW9mVkgwSUoiLCJuIjoiVmF1bHQifQ=="
+            },
+            {
+              "name": "DLC - dlc_data",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiN2JwaXcrWlNmTm4ycmhaenQ5elBScnNNdUxraDdnZ0NNUWt5MXpyajNlUmwxN0FBWUlRSzJnMTdablB3eTNYU1N2YXE3RmlacUVHbHEzSXl6OE9YSnIzZS9wa2giLCJpIjoiaWp6dGpVY0tyK3hNZkNWdCIsIm4iOiJEYXRhIn0="
+            },
+            {
+              "name": "DLC - dlc_vault",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiVHVZMVBOZjFZSk5wMFlTcVZ1bEQ2eWxmTWJQblUzOGthVVRUTERNNW5iTFpFZUFocG5Sa3Z4Si9SaTdYQXNzL04rSlZxVVhDeUN0TmFoUGxyZ1dJNzR0NGdUZnNEQT09IiwiaSI6IkMwekw1UlJxUEk5Zmh2SVMiLCJuIjoiVmF1bHQifQ=="
             }
           ]
         },
@@ -3592,6 +3632,26 @@
             {
               "name": "exFAT - vault_url",
               "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiWndNRkl1SERZVENDdkhEOGpvMUorNUVZR0ZteWVyK2ozOWN6Vy92dTF4Q1VUT0t0UHk3UUhIV3h1WkUrcmg5TlpGWTJlRkNrNGZ2bFNpN1ZxUkVKRXVyNUtLOUV2QT09IiwiaSI6IjBlbkpGUkZXTEVNQVNoWTEiLCJuIjoiVmF1bHQifQ=="
+            },
+            {
+              "name": "exFAT - fpkg_akia",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiTEV5LzJQM2hiT1dtTzVLVnpZMksvSWRKU012UDNocnh6aVZOTlpxYVI1K090M1lhWXVIQ0p5cE1EMFZhaU5GTktwYXBRM21rQy91RDZITzRGNlQwWUxmdVhnQjlISDBydlhZPSIsImkiOiJ4ZEFoZUpxQ05yc0dGMXRzIiwibiI6IkFraWEifQ=="
+            },
+            {
+              "name": "exFAT - fpkg_viki",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoicjZCQmd2bGhsT1VYdGFuNTd2NjArMUg2ZENyL3V1ZGJGUjE5V09tbitwUVhVNHFVM0M0K0d6ZUhYRHYvc3BscGFhQ3l0T0RmR0FISkVLekVLVVpqZDI2NlNDNUZ4bU09IiwiaSI6IjdyODYxd3NKSEt2ZEN4NHAiLCJuIjoiVmlraSJ9"
+            },
+            {
+              "name": "exFAT - fpkg_data",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiQW02QkFMcVhZdG5YdU42ZzBpWmd5d3pkNkFKTWpzZGYrWkk4elVBNW1QQUFPaS9iUFR3a2VFWHJCejRTdGtnUnZoUmROaXp3RmJKUnEvVUk4Rk1ReW5DdkJXM24iLCJpIjoibExtcHlJVHNTcVVyRm80YyIsIm4iOiJEYXRhIn0="
+            },
+            {
+              "name": "exFAT - fpkg_filek",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiK1B0aEdad0tpTE1hSmtZTy9JaXFmSXR5b293YWpDU0ZHY1VGcnoyc0c4ZCtZVGxKekErMHJHWkMzMXB4Z1NqR3h1ODVJVVM0SnorVXIzSXAwYVMxVzVDb3d0c2drNk09IiwiaSI6IisveDEwWWJveXVGU210OTUiLCJuIjoiRmlsZUsifQ=="
+            },
+            {
+              "name": "exFAT - fpkg_vault",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiVnpVbGt4ZGdMa0xFWmc0MmtDeHJDVFpTM0MrdTcrQThRMUtuKzJWTzVhRUx6dk9GVG5DNGZ6eW8wRGZLNHp5dytWZzJrNFZpbWdvNXI0Qk5PQ0hJNmZvZnNOYzhGQT09IiwiaSI6IjhHbjVhZHdVcEIwVGFYaFEiLCJuIjoiVmF1bHQifQ=="
             }
           ]
         },
