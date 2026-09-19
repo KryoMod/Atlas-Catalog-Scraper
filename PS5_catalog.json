@@ -11895,8 +11895,24 @@
               "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiSDZwQVpJbVUweG1taGhaN1ZOK1U2aGQ4QnFsNnZ0MjF6RlBtV0FFTm9tM1BGaGkyYWxQVXNVemdNYU4yZCsxOVN2NXh2V3piTy96WE1UZDJYT1Bjc0ZFRE5VTlJCdz09IiwiaSI6ImY5a2pHSW1RRWwyY080QisiLCJuIjoiVmF1bHQifQ=="
             },
             {
-              "name": "DLC - dlc_akia",
-              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiUFJNa3pHZ0FYZG9FVkRicS9rVSt6L0FXcTQ0ZTl3dWRRcXRJZDg4dFdnb2JxYTI2a0dUS3Nna3dqRXQra1FHM1E3Y0phOXR4NEpTWVhNemNYeTdLUEN6MktZVnhBcWNlUXhJPSIsImkiOiJlTmU1SFhsSjh2UFNSMmZsIiwibiI6IkFraWEifQ=="
+              "name": "exFAT - fpkg_akia",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiOWp0MG9INzQxYklhYVBPQlI4K0Q0enkycDFlaUYwbWpiSHFXaW1ZVXlITGhoOUN6OExqSWRPOGFZZ21DVjFYdFRMVVNEY0VoSm5OYmRqbFJBdDJKUjRreXYzZmxKWVBXbHI0PSIsImkiOiJUVHllbUx3c05wNmI3MHZVIiwibiI6IkFraWEifQ=="
+            },
+            {
+              "name": "exFAT - fpkg_viki",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiZ0hIdkUrUEszaFJUYng0R1hVSGwrUmhsYXpCRENPQXplMlU3azZHWVNybFlyc29TVGdNNkRSY0lFQzdGeXBJb1NQbkNkOVVvZmowNC8zZlBCTGg0dDNRcys2cVkzeEE9IiwiaSI6Ijl1VGxQMEFVcDIzNGZqaGEiLCJuIjoiVmlraSJ9"
+            },
+            {
+              "name": "exFAT - fpkg_data",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiQTM0M3MxSTZwSG9paURoV1VoK0MxZUJ4Rm8xa3BFTHYwRCtOb1BSdDNyYTk4ZmliY2tpVmk4K2krNFdLRlBLd2VVdUhKSXJqV3d1OVBJd1l5ZGxqdkhqOHlrYTUiLCJpIjoiYjhKOGZ3eGN1U1lUN2VwSiIsIm4iOiJEYXRhIn0="
+            },
+            {
+              "name": "exFAT - fpkg_filek",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiYnpLbEdEdncxM29KQzhxNnVaanN5S09Kby8xdlJLb1BjMjM0cERaL09zaVo5NnRLNEFkVzJpYjJUdXJGZkd1d1lXV0hORVV0UEh5dVNUU2NtYnY3SlBONEh1Y2YvYTQ9IiwiaSI6InBXTTBlTUZINDVDdXR2QVIiLCJuIjoiRmlsZUsifQ=="
+            },
+            {
+              "name": "exFAT - fpkg_vault",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiQlhKTllFVDRKN3p6TzJUbEhyMzJNcERTOEs0RVZ0QkJUUS90NDhYS0ZGMjVmTjdEUTJzdjdCaUVmQTVBK2VWWkVFZTc0bml5STJIZTM0dGhKaDNEMFFaR1IwQksyQT09IiwiaSI6Ilo5aXhyNFcvRmxmbTVSTEIiLCJuIjoiVmF1bHQifQ=="
             },
             {
               "name": "DLC - dlc_viki",
@@ -22716,6 +22732,26 @@
               "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoib3hPTXN3K3Rqd1VwUzRLU1o3S3hka3pjamFQd3JJaGIrMW9Vb0JKZk1tRC9JNWdQd3pKS2lsOTFaMDlyVFdCWmZwaG8yK3lJVlRVbnhKUHJIaDRvcjNaMEhxVTZzUT09IiwiaSI6Im9DVWZORW9VQ3Q0WU9CRWQiLCJuIjoiVmF1bHQifQ=="
             },
             {
+              "name": "Backport - fpkg_backport_akia",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiRXE5SWhySHlqaExPY09hSUhiemRTQURjaXdVZjFqQjhLUW5IWjVDeDZCd1hicW1KQkcvUk0zdUptREgwYzdZWDhJVk5QZjNycmxqVkxzMVdMVC9wYy9rVldVaWNFbEFrWkd3PSIsImkiOiI0bnR5UnV2WmVmTXZmQVBaIiwibiI6IkFraWEifQ=="
+            },
+            {
+              "name": "Backport - fpkg_backport_viki",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiaGdQeHI5OGY5eFZwNzg5azJESVhEUXdoYlRjK1JHbmlrRy9Yd21pMHh0QWp3eTZYaG1UK0tnSEN4NW1yM0VRamVhYmdsSXdiSjhJLzZWaVNnVEdnVjljOFF3VXV1Ylk9IiwiaSI6IlcvVjJ5czhYSjlzM21iTWciLCJuIjoiVmlraSJ9"
+            },
+            {
+              "name": "Backport - fpkg_backport_data",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoic1J0MWlIWXdibXhXak9HTk5hTml3N0ZnUkZsQU5kYjlXYm1HRmV1Z040M3Q5RFJ4dmdvRkdoMm1PWnZlTzZVcXNPOHo5S0hDYWo2SEtVdVB1YVZnK1hBZ0l0OEIiLCJpIjoiWHNPb1VpK2RiaCtTcnNydSIsIm4iOiJEYXRhIn0="
+            },
+            {
+              "name": "Backport - fpkg_backport_filek",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiUituYjJPRkxNd3JiRTNWUHhPSGhPcVNMTHNCSEtZWmVQSTl1Z1crdEw2aWZRZGdQdkRCMkNnajBrSGVpWkZOS2RPdmJiYkxDZmYxYWtPZEk3WEpCTnh3dlZ6d0p5Nzg9IiwiaSI6IlgvSW5DNUUyL09NeUV3YU4iLCJuIjoiRmlsZUsifQ=="
+            },
+            {
+              "name": "Backport - fpkg_backport_vault",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiTUNxM090S1pEQjFVbGZFS3NvbU82ekZQV2kxVDJ0NGJIZFlyQ0orVVU0RSt4T2RzZTFUQml0NnF3OW1rdVZDVG9ua1YzaGhIdzA1M2R2L1FBTUY0M2FBMWphalFtZz09IiwiaSI6Inp4M2YrSE84QmRuRnlLYjciLCJuIjoiVmF1bHQifQ=="
+            },
+            {
               "name": "DLC - Akia",
               "url": "https://akirabox.com/2WVGrVEEAGkx/file"
             },
@@ -22726,6 +22762,10 @@
             {
               "name": "DLC - dlc_filek",
               "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiWFFIV2pOVk92eU1rZVZnMGtkald6NkF6OEh1REZSSHdtak42OUpPbG5uMnZMSmttVm0valBwMlNuUWJrQlBrbXE3OHQ2TWhhRm9NWVh3UUJTVzFHTER3MFlHUnJDeUk9IiwiaSI6Ikl4VDZJOEhrZ1ExTDlSa3giLCJuIjoiRmlsZUsifQ=="
+            },
+            {
+              "name": "DLC - dlc_vault",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiQUZ3MEpzeU9lQ1hwVHdTY20xUldDbVhUcy9ad1VpbTh6SXN6enA0NEpneVpWZUg1NWYvc1c0bFc4YnJlRmIveC9ZNXhLOWdKa2JKYm1RUTRWQjQ3ZDVFS0NpMGJQUT09IiwiaSI6ImQrWk5na0t4SnZYZjJMNGYiLCJuIjoiVmF1bHQifQ=="
             }
           ]
         },
@@ -25149,8 +25189,8 @@
               "url": "https://filecrypt.cc/Container/3980AC699E.html"
             },
             {
-              "name": "Game - Mirror",
-              "url": "https://rapidgator.net/article/premium/ref/21929"
+              "name": "Game - Rootz",
+              "url": "https://www.keepshield.org/safe/1384ef6a"
             },
             {
               "name": "Game - 1File",
