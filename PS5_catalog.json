@@ -3568,6 +3568,16 @@
               "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiQzFKMHp5VUUyWFNLQnRqQWxPajAvYWRJMmt6Q2VXNnBvN3Y2YkZIZU5mMlNQWVMySU50eFRWM09DZG1JRmV6Y0dRWFBkdThZWk8vaWNyQ01UV3lIVmVsRnRXVW0wQT09IiwiaSI6IkEvSnJHbDk0Z3B5QTlXZUIiLCJuIjoiVmF1bHQifQ=="
             }
           ]
+        },
+        {
+          "name": "PPSA19943 – USA",
+          "source": "superPSX",
+          "links": [
+            {
+              "name": "Backport - Multihost",
+              "url": "https://link-vault.org/c/DrBoK9xP"
+            }
+          ]
         }
       ]
     },
@@ -8110,7 +8120,7 @@
             },
             {
               "name": "DLC - Rootz",
-              "url": "https://www.rootz.so/d/1yzRr6\nhttps://www.rootz.so/d/1chIFk\nhttps://www.rootz.so/d/1qvkC8\nhttps://www.rootz.so/d/eFVQm\nhttps://www.rootz.so/d/1uxb3g\nhttps://www.rootz.so/d/iHMIK\nhttps://www.rootz.so/d/U2uQ4"
+              "url": "https://www.rootz.so/d/1yzRr6 https://www.rootz.so/d/1chIFk https://www.rootz.so/d/1qvkC8 https://www.rootz.so/d/eFVQm https://www.rootz.so/d/1uxb3g https://www.rootz.so/d/iHMIK https://www.rootz.so/d/U2uQ4"
             },
             {
               "name": "DLC - 1File",
@@ -11112,24 +11122,6 @@
               "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiNlA4dkZ6NS9XWkkzbDNWMGFLS1NOaFg2RzBVejJKZURkVnpseG1ldG01SVNTbkpXWFpaaWhnYldpbHZMQVBucVkzeUF2dkJqWjJocUlTalk5SXh1WnF4UmZJb0RFQT09IiwiaSI6ImxYS2xOeVE0c1pJYnE5Z0QiLCJuIjoiVmF1bHQifQ=="
             }
           ]
-        },
-        {
-          "name": "PPSA08546 – USA",
-          "source": "superPSX",
-          "links": [
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/SMWRorcb1g"
-            },
-            {
-              "name": "Game - Rootz",
-              "url": "https://www.rootz.so/d/yudQO"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?rcyqk0tdfwz7zzmfo2w3&af=4186346"
-            }
-          ]
         }
       ]
     },
@@ -13463,6 +13455,16 @@
               "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoidG9HS1FMMk1Wa2daMzFPYklCZjdtQVUxeE5rVzhLckRLNEVtRkI3RzZYbkNyQTFISnFTdlJJRGkxekF1aENvMEYreFZOcktCSmpwWFpUMVFsTGkvTHFVcldzbWFGUT09IiwiaSI6Im5ieXhCcEhEaWhnY3o1bXQiLCJuIjoiVmF1bHQifQ=="
             }
           ]
+        },
+        {
+          "name": "PPSA18176 – USA",
+          "source": "superPSX",
+          "links": [
+            {
+              "name": "Backport - Multihost",
+              "url": "https://link-vault.org/c/j59clAoj"
+            }
+          ]
         }
       ]
     },
@@ -13574,6 +13576,20 @@
             {
               "name": "exFAT - Data",
               "url": "https://datanodes.to/3e5z7f47a73y"
+            }
+          ]
+        },
+        {
+          "name": "PPSA30094 – USA",
+          "source": "superPSX",
+          "links": [
+            {
+              "name": "Game - Multihost",
+              "url": "https://link-vault.org/c/mjLWcw1c"
+            },
+            {
+              "name": "Backport - Multihost",
+              "url": "https://link-vault.org/c/Jh4z0M2I"
             }
           ]
         }
@@ -13919,6 +13935,26 @@
             {
               "name": "Backport - Vault",
               "url": "https://datavaults.co/1yynzgsa4msq"
+            },
+            {
+              "name": "Backport - fpkg_backport_akia",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoibkhyVTdmaGtwZGJiVGhTT0ZuejFCRVNSNzA5eHVWZStzbWFuVE5EMXhRdTJrQTBJUW9VVStYN3QwSHAvRGR1M3dLQWFoUFNFYTFadDRrNmE2VUl1bW9tZTdOQ3IwYTE0TFhrPSIsImkiOiJzWGplT2dBSnUybXpPbHdDIiwibiI6IkFraWEifQ=="
+            },
+            {
+              "name": "Backport - fpkg_backport_viki",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiRzJmYWt6N1h5aStFeGFLSTNNVWFQL0t4U0h5TWpUdGIwRGp4ZFJwcmdYZCtuTDR4OE9Rc1FOYURTOWV5SlJneTM1Wm5xRmwweU5vUE91MFB1YnBsWmpvT3NUZyt2eVE9IiwiaSI6IjBDeXA4UEZ3UjNGdlFxWTMiLCJuIjoiVmlraSJ9"
+            },
+            {
+              "name": "Backport - fpkg_backport_data",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiekFkbllxVVhZZHdQdFdiNkpjUlh6VGs4WEQwbEk2SmZXdVptekVtM2pad0hBZzFZek9NWlVxU0l1emlvL3VZUjlqc29udCtTN29WcUFteDdUMDlwSWlDTGIrbVciLCJpIjoiWCtqVzRQcWhMQVR2a3pSMiIsIm4iOiJEYXRhIn0="
+            },
+            {
+              "name": "Backport - fpkg_backport_filek",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoidGRvQkNTOElzbXNWeUFzUW9Sck1HNGZrOHhKa0xsZ2czV1k2Zmh0RjIxWkJKTy84NlhZMEJaSG9ScHdXYWxHSS8zazRwTk1sOXZPYUVycmZYYXhQckFNNWpPbmt4MnM9IiwiaSI6Im55WTZEelhrdHR3anBmRDYiLCJuIjoiRmlsZUsifQ=="
+            },
+            {
+              "name": "Backport - fpkg_backport_vault",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiREJXbmo4TC9sS1NjanBtNGo1QmVIZGxmTXp4WlVMMk50RXozMnJHa2dlSEVQdVZXRWZkU0tkcHBtQzZzTGVCWk5BaXNvbnlCUTFBaldWN2o3TEREZUVwQWtLb3NPdz09IiwiaSI6Ilp2TTNyNEZLeFA5Y2pmVkIiLCJuIjoiVmF1bHQifQ=="
             }
           ]
         }
@@ -30653,6 +30689,16 @@
               "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiWmNhUDVXSTF3WkZVYWFSQy94YmFCYmpaNTRkQi91SEI5MUlkQ0tOMHFtdXlkMlEwbnpVem9TQWF2Yk1sV2xmT1ltVVVsVExkSkdidXN1ZFpYVXFoUmVHWmJ1cmRzQT09IiwiaSI6Ii9iR3c4enYyajNpSXd3RXAiLCJuIjoiVmF1bHQifQ=="
             }
           ]
+        },
+        {
+          "name": "PPSA16163 – USA",
+          "source": "superPSX",
+          "links": [
+            {
+              "name": "Backport - Multihost",
+              "url": "https://link-vault.org/c/ZdQwcrIb"
+            }
+          ]
         }
       ]
     },
@@ -30997,24 +31043,6 @@
             {
               "name": "exFAT - Akia",
               "url": "https://akirabox.com/5pVzNwrxVG7w/file"
-            }
-          ]
-        },
-        {
-          "name": "PPSA21203 – USA",
-          "source": "superPSX",
-          "links": [
-            {
-              "name": "Game - Multihost",
-              "url": "https://link-vault.org/c/o544pcz4"
-            },
-            {
-              "name": "Backport - Multihost",
-              "url": "https://link-vault.org/c/t6klpwq9"
-            },
-            {
-              "name": "Backport - Multihost",
-              "url": "https://link-vault.org/c/ckqoqfrz"
             }
           ]
         }
@@ -33195,24 +33223,6 @@
               "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiZmk2eG9sWk9iRUtWS25QU0hyQTRwbTRFUVgwZXBvQnBSVkh3eXVNeGVEdTlnM2thSyt3UHVFbm5ZbTZMbEpFVEtPMExDUWRST3lpQ1VEYWNnKzB3VjFuSnpEZ2p5UT09IiwiaSI6IjlFZGplNmc5RmhwaHk5d0kiLCJuIjoiVmF1bHQifQ=="
             }
           ]
-        },
-        {
-          "name": "PPSA04433 – USA",
-          "source": "superPSX",
-          "links": [
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/nEpsQbr9bU"
-            },
-            {
-              "name": "Game - Rootz",
-              "url": "https://www.rootz.so/d/27enLs"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?cb1685xtu5bdho0ioqgd&af=4186346"
-            }
-          ]
         }
       ]
     },
@@ -33549,6 +33559,16 @@
             {
               "name": "exFAT - vault_url",
               "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoibUtBcVdBOWtGUkN2U0NIMmVoWkVGRUtZaTdEc2RyOURsd1hjSnZYMFZxU1RiMkFDd1FyeGdQV2Nvb0wvQzFydjl1T3YydkJrYjdDSkFWUWpkM3RBeWx6R2dHaVZWQT09IiwiaSI6IkYrV25DeXpVMDhtSjVRdkMiLCJuIjoiVmF1bHQifQ=="
+            }
+          ]
+        },
+        {
+          "name": "PPSA06408 – USA",
+          "source": "superPSX",
+          "links": [
+            {
+              "name": "Backport - Multihost",
+              "url": "https://link-vault.org/c/3mK_Abtb"
             }
           ]
         }
@@ -36345,6 +36365,40 @@
             {
               "name": "Game - 1File",
               "url": "https://1fichier.com/?5fv9zz9umypw0n7x1nhv&af=4186346"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "baseTitleId": "PPSA31215",
+      "title": "Atelier Ryza 2 Lost Legends & the Secret Fairy DX",
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2026/09/Atelier-Ryza-2-Lost-Legends-the-Secret-Fairy-DX-PS5.jpg",
+      "variations": [
+        {
+          "name": "PPSA31215 – USA",
+          "source": "superPSX",
+          "links": [
+            {
+              "name": "Game - Multihost",
+              "url": "https://link-vault.org/c/mHGodWvk"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "baseTitleId": "PPSA31217",
+      "title": "Atelier Ryza 3 Alchemist of the End & the Secret Key DX",
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2026/09/Atelier-Ryza-3-Alchemist-of-the-End-the-Secret-Key-DX-PS5.jpg",
+      "variations": [
+        {
+          "name": "PPSA31217 – USA",
+          "source": "superPSX",
+          "links": [
+            {
+              "name": "Game - Multihost",
+              "url": "https://link-vault.org/c/EJQBP8uK"
             }
           ]
         }
@@ -40803,6 +40857,23 @@
             {
               "name": "Backport - 1File",
               "url": "https://1fichier.com/?xa9gts3e161mfx731uzg&af=4186346"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "baseTitleId": "PPSA12507",
+      "title": "Synapse",
+      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2026/09/Synapse-PS5.jpg",
+      "variations": [
+        {
+          "name": "PPSA12507 – USA",
+          "source": "superPSX",
+          "links": [
+            {
+              "name": "Game - Multihost",
+              "url": "https://link-vault.org/c/nYnkiq8Y"
             }
           ]
         }
