@@ -11122,6 +11122,24 @@
               "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiNlA4dkZ6NS9XWkkzbDNWMGFLS1NOaFg2RzBVejJKZURkVnpseG1ldG01SVNTbkpXWFpaaWhnYldpbHZMQVBucVkzeUF2dkJqWjJocUlTalk5SXh1WnF4UmZJb0RFQT09IiwiaSI6ImxYS2xOeVE0c1pJYnE5Z0QiLCJuIjoiVmF1bHQifQ=="
             }
           ]
+        },
+        {
+          "name": "PPSA08546 – USA",
+          "source": "superPSX",
+          "links": [
+            {
+              "name": "Game - Viki",
+              "url": "https://vikingfile.com/f/SMWRorcb1g"
+            },
+            {
+              "name": "Game - Rootz",
+              "url": "https://www.rootz.so/d/yudQO"
+            },
+            {
+              "name": "Game - 1File",
+              "url": "https://1fichier.com/?rcyqk0tdfwz7zzmfo2w3&af=4186346"
+            }
+          ]
         }
       ]
     },
@@ -12376,6 +12394,26 @@
             {
               "name": "exFAT - vault_url",
               "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoick9lNXU5dU15Mm52UjJnSWo0M0V2TjF0SG9JOFRxOXF4UytUclEzUmJ2V0ZyV1pEeDZRTytnRXFvbE9kT2R2VzMxV2d4cmM1bnBPdXpGSWpzY2JzaTRtSHlMWm9qZz09IiwiaSI6IkZhZklMREszK3ZhZThRTWMiLCJuIjoiVmF1bHQifQ=="
+            },
+            {
+              "name": "exFAT - fpkg_akia",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiMTJZK0JtbUNxOHZPdDFLbC9BcG9vbWFXc00zUVFlbmxid3psbHc2K3AyeFJHVitUVmhWRU1kRCtwaFBqVVRQYmg3MlR1NEk2Nk1FOGJmY0VMRHkrb2pQT01hMzRDZDZlNTlNPSIsImkiOiJRaXZVUFpOVndVaHV5KzVGIiwibiI6IkFraWEifQ=="
+            },
+            {
+              "name": "exFAT - fpkg_viki",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiUWtxbnljUkVQZ2tFcXVqbks2dVJoZGVXU3BLdlRRdTNob1NEaUE5VWszUDhqdTJxSXZRYm9zd1NSUWx5VURoWkd2WldNRmowdnZJZzlPVVZSZGgweWZ3WHBJcWdoNWs9IiwiaSI6IlhISUtXVEUydG9qRnl6bDgiLCJuIjoiVmlraSJ9"
+            },
+            {
+              "name": "exFAT - fpkg_data",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiY1ZPeVZTdG5SaDUvM1hiZm9LaHh5d1B6d3Irc09NSzlBSHFUK3FFTGdSU1N2UHpwSU9IRXdOTHdKUTBJRTVUV3NUVGQyRnB5YWVUMU1mYkt3U2pEZUtCN3lZQTEiLCJpIjoiNkNhWHM2REtIK0RIUGIvQiIsIm4iOiJEYXRhIn0="
+            },
+            {
+              "name": "exFAT - fpkg_filek",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiTGYrNkd5NytYSVJNSG85bWdTMFFRMXNCbExyNWlTazlZRzFLTmM5dUtXemtqaDRwSVZnUzR3SnJCdktSbm50cEVOSzc0UmJkaEcxN05EUk9BbFZWRlg0RStEZ2lWeTA9IiwiaSI6ImRLOUIxSFNUMjVGNkMzYWgiLCJuIjoiRmlsZUsifQ=="
+            },
+            {
+              "name": "exFAT - fpkg_vault",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiUzRjREhrQzFCbExBVzhUcnp2dGErMlI3eEJPUmdBaWtZdHBmRHJudW16MDUzME9Nc0IwTllxdnNYSmd1cVkxekx4a0JSK0FDZngrZjl4ZXYrQm0xNHZ0NlNsYVpKZz09IiwiaSI6IjE1aVBZUHY0ZzdEejQ5c3YiLCJuIjoiVmF1bHQifQ=="
             }
           ]
         }
@@ -20159,44 +20197,64 @@
           "source": "exFAT",
           "links": [
             {
-              "name": "Backport - Akia",
+              "name": "exFAT - Akia",
               "url": "https://akirabox.com/l76mZNM19man/file"
             },
             {
-              "name": "Backport - Viki",
+              "name": "exFAT - Viki",
               "url": "https://vikingfile.com/f/bFZXjXLiAB"
             },
             {
-              "name": "Backport - Data",
+              "name": "exFAT - Data",
               "url": "https://datanodes.to/2mkw273syp6o"
             },
             {
-              "name": "Backport - Filek",
+              "name": "exFAT - Filek",
               "url": "https://filekeeper.net/ov0k2m0tx71p"
             },
             {
-              "name": "Backport - Vault",
+              "name": "exFAT - Vault",
               "url": "https://datavaults.co/9pqdlrv8dso3"
             },
             {
-              "name": "Backport - backport4xx_akia",
+              "name": "Backport - backport_akia",
               "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiU2xlZnFNRGJQZzlocXpJSzV5N0E0UkhNckxpOTRGcU4zcjdRVzFTVkpBcmUxRCtKMEhNYmZGMDNBMlRQYlJqT21rRW0zNXpOY1lNL3hRaGtobWpjQnNpMDFEZmsxWlhueUxVPSIsImkiOiJCZXJQSE1MdmFUazRpR2w4IiwibiI6IkFraWEifQ=="
             },
             {
-              "name": "Backport - backport4xx_viki",
+              "name": "Backport - backport_viki",
               "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiemkzeHdmVS9MSTZzbkEwUXBuM2lFdTkrZkxrY2RINkNqak9TZktYK2RFK3hoUlBiZ1VqRC9zaUNEZDk0aUJ5L3ZMVHBsem5zRnRQMUFQSlE2MGVFV2s0aWkwdmdTYkU9IiwiaSI6IjRHMUVSVEowWWhGeVc0UEUiLCJuIjoiVmlraSJ9"
             },
             {
-              "name": "Backport - backport4xx_data",
+              "name": "Backport - backport_data",
               "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiam9MMjc5UHhHM2Z3UHNXTmRTcHR1SEUydHJCU1ZqTy9KODYvR05nVExtSHdNbWxXK3dVTUFtQmFIMWtiY1NvQVAxWWtybFY2czJCeXBkYzRQYks2MnRUTkhHcEciLCJpIjoiODkvOHFTenJvZmZFMDdiOSIsIm4iOiJEYXRhIn0="
             },
             {
-              "name": "Backport - backport4xx_filek",
+              "name": "Backport - backport_filek",
               "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiUkxhVXE5S2Fjc1NPZ0FBaTliMUhrUFRZYlBKNUlPU000T015QkFHM1pHRGc4N1NBaWhLbzRIZmxYQ2VHTXBRcE5hOVVTOW42OHZLT2tRN3hobXl3dnJFOFJWZ08ranM9IiwiaSI6IjdndmRWNUJmaEMrTWVRS08iLCJuIjoiRmlsZUsifQ=="
             },
             {
-              "name": "Backport - backport4xx_vault",
+              "name": "Backport - backport_vault",
               "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiVm84Q2hQOG91ZGk0eEpCMzFXczArSFJ2K2RZUVJoWXdNdlljL3ZtVkQzQTNTVkxkMnZEaUxOOHFteXA1b01ZSlloV1BCazQwbHM5NGZqYlZ3bGlyUGpocFBmaHRndz09IiwiaSI6Iko1TGk0VURja1RaMHNHck8iLCJuIjoiVmF1bHQifQ=="
+            },
+            {
+              "name": "Backport - fpkg_backport_akia",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiVkwzZitnMXl4N2xxZVlQaFBPOW5kdytNS1BqRTFaUGJzMHRPYndwT1orbzl0QjROcTVXdWoyRFhDcndKWGxZVzJ2L0RoU1VWekNiVnFmNDhoUlJBZkE1VmlQdmNNWWlycGlBPSIsImkiOiJVbkVYdmNPckxwemlPOG5iIiwibiI6IkFraWEifQ=="
+            },
+            {
+              "name": "Backport - fpkg_backport_viki",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiN2FyZ0lPK1VsUHJyL20xcFFaYUFwRDRnZ1NCemp5U2hialNBajRNWUtjMjk4UFFMcjVVbjIyWmV0emdNK3pZWXk2bm5rbjVZbmY0eTlDN0ZtbUVZK2tUNmJVaDZHZms9IiwiaSI6Im4yd1R1RFN6MXM1NUlrVTMiLCJuIjoiVmlraSJ9"
+            },
+            {
+              "name": "Backport - fpkg_backport_data",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiMjhMdldYOThBZHVtdFA3L0t6RU0yOHZzanFyYitSd3o5RjBXakFxTG5pL0ZRcWY1dW0vK2VxQlhvMDJvT2pOWTJFczNWQlNtWWZDNFlxdnpTWC9RUzBvZ3hzT2wiLCJpIjoiWUJpL3VURkpzKytBRVNVQiIsIm4iOiJEYXRhIn0="
+            },
+            {
+              "name": "Backport - fpkg_backport_filek",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiLzRGWlI0S3QwYm1JWkwwdlZ1TjlMYUtCQm5INVdpaVJDREJWQTg0YmdQS21WaEtEU0MrMllDZVh3blpCcXk3TmxKTHhOWC9YUk9iRm90MC9iUUl1a1gvczNIMlV6aW89IiwiaSI6InFBN3YxMGRveHVMK2pVV3IiLCJuIjoiRmlsZUsifQ=="
+            },
+            {
+              "name": "Backport - fpkg_backport_vault",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiRnFwYnpPdkN3WWoxMk1jK1FkbXNjZERIUnVTdmN0SWhuTTlaem5lOTIyN2MrczFCNGxFblZKS3FYMDVJcGhIQ1VvL1UrUFJxZmhBaFBqaU52TTlEQktLVTQzVUpPUT09IiwiaSI6ImJJeURXR1BEUHZDb04zcWMiLCJuIjoiVmF1bHQifQ=="
             }
           ]
         },
@@ -23448,7 +23506,7 @@
     },
     {
       "baseTitleId": "PPSA01474",
-      "title": "Ratchet & Clank Rift Apart Deluxe Edition",
+      "title": "Ratchet & Clank Rift Apart",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Ratchet_and_Clank_Rift_Apart.avif",
       "variations": [
         {
@@ -31045,6 +31103,24 @@
               "url": "https://akirabox.com/5pVzNwrxVG7w/file"
             }
           ]
+        },
+        {
+          "name": "PPSA21203 – USA",
+          "source": "superPSX",
+          "links": [
+            {
+              "name": "Game - Multihost",
+              "url": "https://link-vault.org/c/o544pcz4"
+            },
+            {
+              "name": "Backport - Multihost",
+              "url": "https://link-vault.org/c/t6klpwq9"
+            },
+            {
+              "name": "Backport - Multihost",
+              "url": "https://link-vault.org/c/ckqoqfrz"
+            }
+          ]
         }
       ]
     },
@@ -33221,6 +33297,24 @@
             {
               "name": "DLC - dlc_vault",
               "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiZmk2eG9sWk9iRUtWS25QU0hyQTRwbTRFUVgwZXBvQnBSVkh3eXVNeGVEdTlnM2thSyt3UHVFbm5ZbTZMbEpFVEtPMExDUWRST3lpQ1VEYWNnKzB3VjFuSnpEZ2p5UT09IiwiaSI6IjlFZGplNmc5RmhwaHk5d0kiLCJuIjoiVmF1bHQifQ=="
+            }
+          ]
+        },
+        {
+          "name": "PPSA04433 – USA",
+          "source": "superPSX",
+          "links": [
+            {
+              "name": "Game - Viki",
+              "url": "https://vikingfile.com/f/nEpsQbr9bU"
+            },
+            {
+              "name": "Game - Rootz",
+              "url": "https://www.rootz.so/d/27enLs"
+            },
+            {
+              "name": "Game - 1File",
+              "url": "https://1fichier.com/?cb1685xtu5bdho0ioqgd&af=4186346"
             }
           ]
         }
